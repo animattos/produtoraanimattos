@@ -1,0 +1,2302 @@
+* {
+	padding: 0;
+	margin: auto;
+			
+	}#topo {
+	position: relative;
+	height: 400px;
+	width: 100%;
+	background-color:#33cc66;
+	background-image: url(../IMG/triangulos.png);
+	background-repeat: repeat;
+	}
+@media screen and (min-width: 300px) and (max-width: 499px) 
+
+{
+	
+	#videotopomaior {
+    display: none;    
+	background-color: #FFF;
+	position: relative;
+	height: 315px;
+	width: 560px;
+	top: 7px;
+	
+	
+	
+}
+
+    #brancomaior {
+    display: none;   
+	position: relative;
+	height: 330px;
+	width: 575px;
+	background-color: #000;
+	top: 90px;
+}
+
+
+
+
+    #videotopomedio {
+    display: none;
+    background-color: #FFF;
+	position: relative;
+	height: 400px;
+	width: 267px;
+	top: 7px;
+	
+	
+	
+}
+
+    #brancomedio { 
+	display: none;
+	position: relative;
+	height: 315px;
+	width: 580px;
+	background-color:#F0C;
+	top: 90px;
+}
+
+
+
+
+
+#videotopo {
+	
+	background-color: #FFF;
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 10px;
+}
+#logo {
+	position: relative;
+	height: 30px;
+	width: 210px;
+	background-image: url(../IMG/logo.png);
+	background-repeat: no-repeat;
+	top: 80px;
+}
+#branco {
+	
+	position: relative;
+	height: 178px;
+	width: 303px;
+	background-color: #000;
+	top: 90px;
+}
+#texto01 {
+	position: relative;
+	height: 25px;
+	width: 300px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	top: 30px;
+}
+#texto02 {
+	position: relative;
+	height: 165px;
+	width: 280px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+	margin: auto;
+	top: 20px;
+}
+#meio {
+	margin: auto;
+	height: 1400px;
+	width: 300px;
+	position: relative;
+}
+#art1 {
+	background-image:url(../IMG/art1.png);
+	background-color: #33cc66;
+	position: relative;
+	height: 200px;
+	width: 200px;
+	top: 260px;
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+	
+#textoart1 {
+	margin: 0px;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 210px;
+	font-weight: 300;
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+}
+#art2 {
+
+	background-color: #33cc66;
+	position: relative;
+	height: 200px;
+	width: 200px;
+	margin: 0px;
+	top: 30px;
+}
+#textoart2 {
+	position: relative;
+	height: 200px;
+	width: 200px;
+	top: 210px;
+	font-weight: 300;
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+}
+#art3 {
+	background-color: #33cc66;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 655px;
+}
+#texto3 {
+	margin: 0px;
+	height: 100px;
+	width: 200px;
+	position: relative;
+	top: 208px;
+	font-weight: 300;
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+}
+#meio2 {
+	background-color: #33cc66;
+	height: 1150px;
+	width: 100%;
+	position: relative;
+	margin: auto;
+	top: -200px;
+}
+#video1 {
+	position: relative;
+	height: 100px;
+	width: 300px;
+	margin: auto;
+	top: 20px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	color: #FFF;
+}
+#video01 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 60px;
+	text-align: center;
+	border:5px solid #000;
+	
+	
+	
+}
+#video2 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 90px;
+	text-align: center;
+	border:5px solid #000;
+	
+}
+#video3 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 120px;
+	text-align: center;
+	border:5px solid #000;
+	
+}
+#video4 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 150px;
+	text-align: center;
+	border:5px solid #000;
+	
+}
+#seta {
+	position: relative;
+	height: 35px;
+	width: 65px;
+	z-index: 10;
+	top: -55px;
+}
+#meio3 {
+	position: relative;
+	height: 1600px;
+	width: 300px;
+	top: -200px;
+	z-index: 1;
+}
+#textvideo1 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: 60px;
+}
+#txtvideo2 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: 90px;
+}
+#txtvideo3 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: 120px;
+}
+#txtvideo4 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: 150px;
+}
+#comprar1 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	background-color: #33cc66;
+	top: 85px;
+}
+#compra2 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	background-color: #33cc66;
+	top: 130px;
+}
+#compra3 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	top: 175px;
+	background-color: #33cc66;
+}
+#compra4 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	top: 220px;
+	background-color: #33cc66;
+}
+#linha1 {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	border:2px solid #FFF;
+	top: 10px;
+}
+#linha {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	top: 10px;
+	border:2px solid #FFF;
+}
+#linha3 {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	top: 10px;
+	border:2px solid #FFF;
+}
+#linha4 {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	top: 10px;
+	border:2px solid #FFF;
+}
+#classico {
+	position: relative;
+	height: 30px;
+	width: 170px;
+	top: 10px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+}
+#valor1 {
+	position: relative;
+	height: 100px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+}
+#segundos1 {
+	text-align: center;
+	position: relative;
+	height: 20px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	top: -50px;
+}
+#bot1 {
+	position: relative;
+	height: 50px;
+	width: 170px;
+	text-align: center;
+	top: 90px;
+}
+
+#enviar{
+	font-weight: 700;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	color:#FFF;
+	width:150px;
+	height: 40px;
+	cursor: pointer; /* vai por o cursor como forma de mão ao passar por cima do botão */
+	cursor: hand; /* para o IE 5.x */
+	background-color:#000;
+	text-align: center;
+	margin: 0;
+	border: 0;
+	
+	
+	
+}
+
+#enviar:hover{
+	font-weight: 700;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	color:#33cc66;
+	width: 150px;
+	height: 40px;
+	cursor: pointer; /* vai por o cursor como forma de mão ao passar por cima do botão */
+	cursor: hand; /* para o IE 5.x */
+	background-color:#FFF;
+	text-align: center;
+	margin: 0;
+	border: 0;
+	
+	
+}
+#DRAW {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	top: 10px;
+}
+#valor {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+#segundos2 {
+	text-align: center;
+	position: relative;
+	height: 20px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	
+}
+#bot2 {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	top: 140px;
+	
+}
+#geometrico {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 180px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	top: 10px;
+}
+#valor3 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+#meiomeio {
+	position: relative;
+	height: 20px;
+	width: 100%;
+	top: -200px;
+}
+#barrafinal {
+	background-color: #000;
+	position: relative;
+	height: 300px;
+	width: 100%;
+	top: 10px;
+}
+#segundos3 {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+}
+#comprar3 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	top: 130px;
+}
+#basico {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	top: 10px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+}
+#vlor4 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+#segundos4 {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+}
+#comprar4 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	top: 130px;
+}
+#barrafinal table tr td {
+	color: #FFF;
+	text-align: left;
+}
+#textopagar {
+	position: relative;
+	height: 100px;
+	width: 300px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	color: #33cc66;
+	top: 50px;
+}
+#barrafinal table tr td img {
+	text-align: center;
+}
+#fim {
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	color: #ffff;
+	font-size: 12px;
+	height: 200px;
+	width: 300px;
+	position: relative;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	top: 20px;
+}
+#meiodoverde {
+	position: relative;
+	height: 1200px;
+	width: 300px;
+}
+}
+
+
+
+
+
+@media screen and (min-width: 500px) and (max-width: 767px) 
+
+{
+	
+ 	
+	#videotopomaior {
+    display: none;    
+	background-color: #FFF;
+	position: relative;
+	height: 315px;
+	width: 560px;
+	top: 7px;	
+	
+}
+
+    #brancomaior {
+    display: none;   
+	position: relative;
+	height: 330px;
+	width: 575px;
+	background-color: #000;
+	top: 90px;
+}
+
+    #videotopomedio {
+    
+    background-color: #FFF;
+	position: relative;
+	height: 254px;
+	width: 400px;
+		
+	
+}
+
+    #brancomedio { 
+	
+	position: relative;
+	height: 254px;
+	width: 426px;
+	background-color:#000;
+	top: 90px;
+}
+
+#videotopo {
+	display: none;
+	background-color: #FFF;
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 10px;
+}
+
+#branco {
+	display: none;
+	position: relative;
+	height: 178px;
+	width: 303px;
+	background-color: #000;
+	top: 90px;
+	
+}
+#logo {
+	position: relative;
+	height: 30px;
+	width: 210px;
+	background-image: url(../IMG/logo.png);
+	background-repeat: no-repeat;
+	top: 80px;
+}	
+	#topo {
+	position: relative;
+	height: 480px;
+	width: 100%;
+	background-color:#33cc66;
+	background-image: url(../IMG/triangulos.png);
+	background-repeat: repeat;
+	}
+
+
+#logo {
+	position: relative;
+	height: 30px;
+	width: 300px;
+	background-image: url(../IMG/logo.png);
+	background-repeat: no-repeat;
+	top: 80px;
+	right: 50px;
+}
+
+#texto01 {
+	position: relative;
+	height: 40px;
+	width: 400px;
+	font-weight: 700;
+	font-size: 30px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	top: 20px;
+	right: 50px;
+	
+}
+#texto02 {
+	position: relative;
+	height: 120px;
+	width: 400px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+	top: 20px;
+	;
+	
+}
+#meio {
+	margin: auto;
+	height: 1400px;
+	width: 300px;
+	position: relative;
+}
+#art1 {
+	background-color: #33cc66;
+	position: relative;
+	height: 200px;
+	width: 200px;
+	top: 260px;
+	background-repeat: no-repeat;
+	background-image: url(../IMG/01.jpg);
+	background-position: center;
+	
+}
+	
+#textoart1 {
+	margin: 0px;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 210px;
+	font-weight: 300;
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+}
+#art2 {
+	background-color: #33cc66;
+	position: relative;
+	height: 200px;
+	width: 200px;
+	margin: 0px;
+	top: 30px;
+}
+#textoart2 {
+	position: relative;
+	height: 200px;
+	width: 200px;
+	top: 210px;
+	font-weight: 300;
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+}
+#art3 {
+	background-color: #33cc66;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 655px;
+}
+#texto3 {
+	margin: 0px;
+	height: 100px;
+	width: 200px;
+	position: relative;
+	top: 208px;
+	font-weight: 300;
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+}
+#meio2 {
+	background-color: #33cc66;
+	height: 1150px;
+	width: 100%;
+	position: relative;
+	margin: auto;
+	top: -200px;
+}
+#video1 {
+	position: relative;
+	height: 100px;
+	width: 300px;
+	margin: auto;
+	top: 20px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	color: #FFF;
+}
+#video01 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 60px;
+	text-align: center;
+	border:5px solid #000;
+	
+	
+	
+}
+#video2 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 90px;
+	text-align: center;
+	border:5px solid #000;
+	
+}
+#video3 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 120px;
+	text-align: center;
+	border:5px solid #000;
+	
+}
+#video4 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 150px;
+	text-align: center;
+	border:5px solid #000;
+	
+}
+#seta {
+	position: relative;
+	height: 35px;
+	width: 65px;
+	z-index: 10;
+	top: -55px;
+}
+#meio3 {
+	position: relative;
+	height: 1600px;
+	width: 300px;
+	top: -200px;
+	z-index: 1;
+}
+#textvideo1 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: 60px;
+}
+#txtvideo2 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: 90px;
+}
+#txtvideo3 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: 120px;
+}
+#txtvideo4 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: 150px;
+}
+#comprar1 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	background-color: #33cc66;
+	top: 85px;
+}
+#compra2 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	background-color: #33cc66;
+	top: 130px;
+}
+#compra3 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	top: 175px;
+	background-color: #33cc66;
+}
+#compra4 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	top: 220px;
+	background-color: #33cc66;
+}
+#linha1 {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	border:2px solid #FFF;
+	top: 10px;
+}
+#linha {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	top: 10px;
+	border:2px solid #FFF;
+}
+#linha3 {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	top: 10px;
+	border:2px solid #FFF;
+}
+#linha4 {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	top: 10px;
+	border:2px solid #FFF;
+}
+#classico {
+	position: relative;
+	height: 30px;
+	width: 170px;
+	top: 10px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+}
+#valor1 {
+	position: relative;
+	height: 100px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+}
+#segundos1 {
+	text-align: center;
+	position: relative;
+	height: 20px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	top: -50px;
+}
+#bot1 {
+	position: relative;
+	height: 50px;
+	width: 170px;
+	text-align: center;
+	top: 90px;
+}
+
+#enviar{
+	font-weight: 700;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	color:#FFF;
+	width:150px;
+	height: 40px;
+	cursor: pointer; /* vai por o cursor como forma de mão ao passar por cima do botão */
+	cursor: hand; /* para o IE 5.x */
+	background-color:#000;
+	text-align: center;
+	margin: 0;
+	border: 0;
+	
+	
+	
+}
+
+#enviar:hover{
+	font-weight: 700;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	color:#33cc66;
+	width: 150px;
+	height: 40px;
+	cursor: pointer; /* vai por o cursor como forma de mão ao passar por cima do botão */
+	cursor: hand; /* para o IE 5.x */
+	background-color:#FFF;
+	text-align: center;
+	margin: 0;
+	border: 0;
+	
+	
+}
+#DRAW {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	top: 10px;
+}
+#valor {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+#segundos2 {
+	text-align: center;
+	position: relative;
+	height: 20px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	
+}
+#bot2 {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	top: 140px;
+	
+}
+#geometrico {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 180px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	top: 10px;
+}
+#valor3 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+#meiomeio {
+	position: relative;
+	height: 20px;
+	width: 100%;
+	top: -200px;
+}
+#barrafinal {
+	background-color: #000;
+	position: relative;
+	height: 300px;
+	width: 100%;
+	top: 10px;
+}
+#segundos3 {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+}
+#comprar3 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	top: 130px;
+}
+#basico {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	top: 10px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+}
+#vlor4 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+#segundos4 {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+}
+#comprar4 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	top: 130px;
+}
+#barrafinal table tr td {
+	color: #FFF;
+	text-align: left;
+}
+#textopagar {
+	position: relative;
+	height: 100px;
+	width: 300px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	color: #33cc66;
+	top: 50px;
+}
+#barrafinal table tr td img {
+	text-align: center;
+}
+#fim {
+	
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	color: #ffff;
+	font-size: 15px;
+	height: 200px;
+	width: 400px;
+	position: relative;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	top: 20px;
+}
+#meiodoverde {
+	position: relative;
+	height: 1200px;
+	width: 300px;
+}	
+	
+	
+
+}
+
+
+
+@media screen and (min-width: 768px) and (max-width: 3000px) 
+
+{
+	#videotopomaior {
+         
+	background-color: #FFF;
+	position: relative;
+	height: 315px;
+	width: 560px;
+	top: 7px;
+	
+	
+	
+}
+
+#brancomaior {
+        
+	position: relative;
+	height: 330px;
+	width: 575px;
+	background-color: #000;
+	top: 90px;
+}
+	#topo {
+	position: relative;
+	height: 480px;
+	width: 100%;
+	background-color:#33cc66;
+	background-image: url(../IMG/triangulos.png);
+	background-repeat: repeat;
+	}
+#videotopo {
+	display:none;
+	background-color: #FFF;
+	position: relative;
+	height: 315px;
+	width: 560px;
+	top: 7px;
+}
+#branco {
+	display:none;
+	position: relative;
+	height: 330px;
+	width: 575px;
+	background-color: #000;
+	top: 90px;
+}
+#videotopomedio {
+	display:none;
+	background-color: #FFF;
+	position: relative;
+	height: 315px;
+	width: 560px;
+	top: 7px;
+}
+#brancomedio {
+	display:none;
+	position: relative;
+	height: 330px;
+	width: 575px;
+	background-color: #000;
+	top: 90px;
+}
+#logo {
+	position: relative;
+	height: 30px;
+	width: 300px;
+	background-image: url(../IMG/logo.png);
+	background-repeat: no-repeat;
+	top: 80px;
+	right: 138px;
+}
+
+#texto01 {
+	position: relative;
+	height: 50px;
+	width: 575px;
+	font-weight: 700;
+	font-size: 35px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	top: 20px;
+	right: 140px;
+	
+}
+#texto02 {
+	position: relative;
+	height: 100px;
+	width: 600px;
+	font-weight: 300;
+	font-size: 18px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+	top: 20px;
+	
+}
+#meio {
+	margin: auto;
+	height: 810px;
+	width: 300px;
+	position: relative;
+}
+#art1 {
+	background-color: #33cc66;
+	position: relative;
+	height: 200px;
+	width: 200px;
+	top: 260px;
+	background-repeat: no-repeat;
+	background-image: url(../IMG/01.jpg);
+	background-position: center;
+	right: 205px;
+	
+}
+	
+#textoart1 {
+	margin: 0px;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 210px;
+	font-weight: 300;
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+}
+#art2 {
+	background-color: #33cc66;
+	position: relative;
+	height: 200px;
+	width: 200px;
+	margin: 0px;
+	top: -258px;
+	left: 215px;
+}
+#textoart2 {
+	position: relative;
+	height: 200px;
+	width: 200px;
+	top: 210px;
+	font-weight: 300;
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+}
+#art3 {
+	background-color: #33cc66;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 60px;
+	left: 225px;
+}
+#texto3 {
+	margin: 0px;
+	height: 100px;
+	width: 200px;
+	position: relative;
+	top: 208px;
+	font-weight: 300;
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+}
+#meio2 {
+	background-color: #33cc66;
+	height: 680px;
+	width: 100%;
+	position: relative;
+	margin: auto;
+	top: -200px;
+}
+#video1 {
+	position: relative;
+	height: 100px;
+	width: 500px;
+	top: 20px;
+	font-weight: 700;
+	font-size: 28px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	color: #FFF;
+	right: 100px;
+	
+}
+#video01 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 45px;
+	text-align: center;
+	border:5px solid #000;
+	right: 145px;
+	
+	
+	
+}
+#video2 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: -153px;
+	text-align: center;
+	border:5px solid #000;
+	left: 165px;
+	
+}
+#video3 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 120px;
+	text-align: center;
+	border:5px solid #000;
+	top: -100px;
+	right: 145px;
+	
+}
+#video4 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 150px;
+	text-align: center;
+	border:5px solid #000;
+	top: -298px;
+	left: 165px;
+	
+}
+#seta {
+	position: relative;
+	height: 35px;
+	width: 65px;
+	z-index: 10;
+	top: -528px;
+}
+#meio3 {
+	position: relative;
+	height: 850px;
+	width: 300px;
+	top: -200px;
+	z-index: 1;
+}
+#textvideo1 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: 40px;
+	right: 148px;
+}
+#txtvideo2 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: -158px;
+	left: 163px;
+}
+#txtvideo3 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: -105px;
+	right: 148px;
+}
+#txtvideo4 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: -302px;
+	left: 163px;
+}
+#comprar1 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	background-color: #33cc66;
+	top: 85px;
+	right: 100px;
+}
+#compra2 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	background-color: #33cc66;
+	top: -270px;
+	left: 115px;
+	
+}
+#compra3 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	top: 175px;
+	background-color: #33cc66;
+	top: -240px;
+	right: 100px;
+}
+#compra4 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	top: 220px;
+	background-color: #33cc66;
+	top: -595px;
+	left: 115px;
+}
+#linha1 {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	border:2px solid #FFF;
+	top: 10px;
+}
+#linha {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	top: 10px;
+	border:2px solid #FFF;
+}
+#linha3 {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	top: 10px;
+	border:2px solid #FFF;
+}
+#linha4 {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	top: 10px;
+	border:2px solid #FFF;
+}
+#classico {
+	position: relative;
+	height: 30px;
+	width: 170px;
+	top: 10px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+}
+#valor1 {
+	position: relative;
+	height: 100px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+}
+#segundos1 {
+	text-align: center;
+	position: relative;
+	height: 20px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	top: -50px;
+}
+#bot1 {
+	position: relative;
+	height: 50px;
+	width: 170px;
+	text-align: center;
+	top: 90px;
+}
+
+#enviar{
+	font-weight: 700;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	color:#FFF;
+	width:150px;
+	height: 40px;
+	cursor: pointer; /* vai por o cursor como forma de mão ao passar por cima do botão */
+	cursor: hand; /* para o IE 5.x */
+	background-color:#000;
+	text-align: center;
+	margin: 0;
+	border: 0;
+	
+	
+	
+}
+
+#enviar:hover{
+	font-weight: 700;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	color:#33cc66;
+	width: 150px;
+	height: 40px;
+	cursor: pointer; /* vai por o cursor como forma de mão ao passar por cima do botão */
+	cursor: hand; /* para o IE 5.x */
+	background-color:#FFF;
+	text-align: center;
+	margin: 0;
+	border: 0;
+	
+	
+}
+#DRAW {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	top: 10px;
+}
+#valor {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+#segundos2 {
+	text-align: center;
+	position: relative;
+	height: 20px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	
+}
+#bot2 {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	top: 140px;
+	
+}
+#geometrico {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 180px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	top: 10px;
+}
+#valor3 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+#meiomeio {
+	position: relative;
+	height: 20px;
+	width: 100%;
+	top: -200px;
+}
+#barrafinal {
+	background-color: #000;
+	position: relative;
+	height: 300px;
+	width: 100%;
+	top: 10px;
+}
+#segundos3 {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+}
+#comprar3 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	top: 130px;
+}
+#basico {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	top: 10px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+}
+#vlor4 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+#segundos4 {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+}
+#comprar4 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	top: 130px;
+}
+#barrafinal table tr td {
+	color: #FFF;
+	text-align: left;
+}
+#textopagar {
+	position: relative;
+	height: 100px;
+	width: 500px;
+	font-weight: 700;
+	font-size: 25px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	color: #33cc66;
+	top: 50px;
+	right: 100px;
+}
+#barrafinal table tr td img {
+	text-align: center;
+}
+#fim {
+	
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	color: #ffff;
+	font-size: 18px;
+	height: 200px;
+	width: 600px;
+	position: relative;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	top: 20px;
+}
+#meiodoverde {
+	position: relative;
+	height: 1200px;
+	width: 300px;
+}	
+	
+	
+
+}
+
+
+@media screen and (min-width: 1024px) and (max-width: 3000px) 
+
+{
+	#topo {
+	position: relative;
+	height: 480px;
+	width: 100%;
+	background-color:#33cc66;
+	background-image: url(../IMG/triangulos.png);
+	background-repeat: repeat;
+	}
+#videotopomaior {
+	background-color: #FFF;
+	position: relative;
+	height: 315px;
+	width: 560px;
+	top: 7px;
+	
+	
+	
+}
+#logo {
+	position: relative;
+	height: 30px;
+	width: 300px;
+	background-image: url(../IMG/logo.png);
+	background-repeat: no-repeat;
+	top: 80px;
+	right: 138px;
+}
+#branco {
+	display:none;
+	position: relative;
+	height: 1px;
+	width: 1px;
+	top: 90px;
+}
+#brancomaior {
+	position: relative;
+	height: 330px;
+	width: 575px;
+	background-color: #000;
+	top: 90px;
+}
+#texto01 {
+	position: relative;
+	height: 50px;
+	width: 575px;
+	font-weight: 700;
+	font-size: 35px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	top: 20px;
+	right: 140px;
+	
+}
+#texto02 {
+	position: relative;
+	height: 100px;
+	width: 600px;
+	font-weight: 300;
+	font-size: 18px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+	top: 20px;
+	
+}
+#meio {
+	margin: auto;
+	height: 810px;
+	width: 300px;
+	position: relative;
+}
+#art1 {
+	background-color: #33cc66;
+	position: relative;
+	height: 200px;
+	width: 200px;
+	top: 260px;
+	background-repeat: no-repeat;
+	background-image: url(../IMG/01.jpg);
+	background-position: center;
+	right: 205px;
+	
+}
+	
+#textoart1 {
+	margin: 0px;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 210px;
+	font-weight: 300;
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+}
+#art2 {
+	background-color: #33cc66;
+	position: relative;
+	height: 200px;
+	width: 200px;
+	margin: 0px;
+	top: -258px;
+	left: 215px;
+}
+#textoart2 {
+	position: relative;
+	height: 200px;
+	width: 200px;
+	top: 210px;
+	font-weight: 300;
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+}
+#art3 {
+	background-color: #33cc66;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 60px;
+	left: 225px;
+}
+#texto3 {
+	margin: 0px;
+	height: 100px;
+	width: 200px;
+	position: relative;
+	top: 208px;
+	font-weight: 300;
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+}
+#meio2 {
+	background-color: #33cc66;
+	height: 680px;
+	width: 100%;
+	position: relative;
+	margin: auto;
+	top: -200px;
+}
+#video1 {
+	position: relative;
+	height: 100px;
+	width: 500px;
+	top: 20px;
+	font-weight: 700;
+	font-size: 28px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	color: #FFF;
+	right: 100px;
+	
+}
+#video01 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 45px;
+	text-align: center;
+	border:5px solid #000;
+	right: 145px;
+	
+	
+	
+}
+#video2 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: -153px;
+	text-align: center;
+	border:5px solid #000;
+	left: 165px;
+	
+}
+#video3 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 120px;
+	text-align: center;
+	border:5px solid #000;
+	top: -100px;
+	right: 145px;
+	
+}
+#video4 {
+	position: relative;
+	height: 158px;
+	width: 280px;
+	top: 150px;
+	text-align: center;
+	border:5px solid #000;
+	top: -298px;
+	left: 165px;
+	
+}
+#seta {
+	position: relative;
+	height: 35px;
+	width: 65px;
+	z-index: 10;
+	top: -528px;
+}
+#meio3 {
+	position: relative;
+	height: 450px;
+	width: 300px;
+	top: -200px;
+	z-index: 1;
+}
+#textvideo1 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: 40px;
+	right: 148px;
+}
+#txtvideo2 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: -158px;
+	left: 163px;
+}
+#txtvideo3 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: -105px;
+	right: 148px;
+}
+#txtvideo4 {
+	position: relative;
+	height: 30px;
+	width: 280px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+
+	top: -302px;
+	left: 163px;
+}
+#comprar1 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	background-color: #33cc66;
+	top: 85px;
+	right: 320px;
+}
+#compra2 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	background-color: #33cc66;
+	top:-270px;
+	left: -100px;
+	
+}
+#compra3 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	top: 175px;
+	background-color: #33cc66;
+	top: -625px;
+	left: 119px;
+}
+#compra4 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	top: 220px;
+	background-color: #33cc66;
+	top: -980px;
+	left: 340px;
+}
+#linha1 {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	border:2px solid #FFF;
+	top: 10px;
+}
+#linha {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	top: 10px;
+	border:2px solid #FFF;
+}
+#linha3 {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	top: 10px;
+	border:2px solid #FFF;
+}
+#linha4 {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	top: 10px;
+	border:2px solid #FFF;
+}
+#classico {
+	position: relative;
+	height: 30px;
+	width: 170px;
+	top: 10px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+}
+#valor1 {
+	position: relative;
+	height: 100px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+}
+#segundos1 {
+	text-align: center;
+	position: relative;
+	height: 20px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	top: -50px;
+}
+#bot1 {
+	position: relative;
+	height: 50px;
+	width: 170px;
+	text-align: center;
+	top: 90px;
+}
+
+#enviar{
+	font-weight: 700;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	color:#FFF;
+	width:150px;
+	height: 40px;
+	cursor: pointer; /* vai por o cursor como forma de mão ao passar por cima do botão */
+	cursor: hand; /* para o IE 5.x */
+	background-color:#000;
+	text-align: center;
+	margin: 0;
+	border: 0;
+	
+	
+	
+}
+
+#enviar:hover{
+	font-weight: 700;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	color:#33cc66;
+	width: 150px;
+	height: 40px;
+	cursor: pointer; /* vai por o cursor como forma de mão ao passar por cima do botão */
+	cursor: hand; /* para o IE 5.x */
+	background-color:#FFF;
+	text-align: center;
+	margin: 0;
+	border: 0;
+	
+	
+}
+#DRAW {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	top: 10px;
+}
+#valor {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+#segundos2 {
+	text-align: center;
+	position: relative;
+	height: 20px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	
+}
+#bot2 {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	top: 140px;
+	
+}
+#geometrico {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 180px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	top: 10px;
+}
+#valor3 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+#meiomeio {
+	position: relative;
+	height: 20px;
+	width: 100%;
+	top: -200px;
+}
+#barrafinal {
+	background-color: #000;
+	position: relative;
+	height: 300px;
+	width: 100%;
+	top: 10px;
+}
+#segundos3 {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+}
+#comprar3 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	top: 130px;
+}
+#basico {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	top: 10px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+}
+#vlor4 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+#segundos4 {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+}
+#comprar4 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	top: 130px;
+}
+#barrafinal table tr td {
+	color: #FFF;
+	text-align: left;
+}
+#textopagar {
+	position: relative;
+	height: 100px;
+	width: 500px;
+	font-weight: 700;
+	font-size: 25px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	color: #33cc66;
+	top: 50px;
+	right: 100px;
+}
+#barrafinal table tr td img {
+	text-align: center;
+}
+#fim {
+	
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	color: #ffff;
+	font-size: 18px;
+	height: 200px;
+	width: 600px;
+	position: relative;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	top: 20px;
+}
+#meiodoverde {
+	position: relative;
+	height: 1200px;
+	width: 300px;
+}	
+	
+	
+
+}

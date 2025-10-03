@@ -1,0 +1,510 @@
+* {
+	padding: 0;
+	margin: auto;
+			
+	}#topo {
+	position: relative;
+	height: 500px;
+	width: 100%;
+	background-color:#33cc66;
+	background-image: url(../IMG/triangulos.png);
+	background-repeat: repeat;
+
+}
+#videotopo {
+	background-color: #FFF;
+	position: relative;
+	height: 315px;
+	width: 560px;
+	top: 7px;
+}
+#logo {
+	position: relative;
+	height: 30px;
+	width: 300px;
+	background-image: url(../IMG/logo.png);
+	background-repeat: no-repeat;
+	top: 80px;
+	right: 135px;
+}
+#branco {
+	position: relative;
+	height: 330px;
+	width: 575px;
+	background-color: #000;
+	top: 90px;
+}
+#texto01 {
+	position: relative;
+	height: 50px;
+	width: 800px;
+	font-weight: 700;
+	font-size: 30px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	top: 20px;
+}
+#texto02 {
+	position: relative;
+	height: 100px;
+	width: 800px;
+	font-weight: 300;
+	font-size: 18px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+	margin: auto;
+}
+#meio {
+	margin: auto;
+	height: 750px;
+	width: 800px;
+	position: relative;
+}
+#art1 {
+	background-color: #33cc66;
+	position: relative;
+	height: 200px;
+	width: 200px;
+	margin: 0px;
+	top: 150px;
+	background-repeat: no-repeat;
+	background-image: url(../IMG/01.jpg);
+	background-position: center;
+	
+}
+	
+#textoart1 {
+	margin: 0px;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 210px;
+	font-weight: 300;
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+}
+#art2 {
+	background-color: #33cc66;
+	position: relative;
+	height: 200px;
+	width: 200px;
+	margin: 0px;
+	top: -50px;
+	left: 305px;
+}
+#textoart2 {
+	position: relative;
+	height: 200px;
+	width: 200px;
+	top: 210px;
+	font-weight: 300;
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+}
+#art3 {
+	background-color: #33cc66;
+	margin: 0px;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: -250px;
+	left: 600px;
+}
+#texto3 {
+	margin: 0px;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 208px;
+	font-weight: 300;
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	text-align: justify;
+}
+#meio2 {
+	background-color: #33cc66;
+	height: 720px;
+	width: 100%;
+	position: relative;
+	margin: auto;
+	top: -200px;
+}
+#video1 {
+	position: relative;
+	height: 100px;
+	width: 800px;
+	margin: auto;
+	top: 20px;
+	font-weight: 700;
+	font-size: 30px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	color: #FFF;
+}
+#video01 {
+	background-color: #000000;
+	position: relative;
+	height: 200px;
+	width: 350px;
+	top: 80px;
+	clip: rect(auto,auto,auto,auto);
+	right: 225px;
+	text-align: center;
+	background-position:  center;
+	border:10px solid #000;
+}
+#video2 {
+	background-color: #000;
+	position: relative;
+	height: 200px;
+	width: 350px;
+	top: -142px;
+	left: 230px;
+	text-align: center;
+	border:10px solid #000;
+}
+#video3 {
+	background-color: #000;
+	position: relative;
+	height: 200px;
+	width: 350px;
+	top: -80px;
+	text-align: center;
+	right: 225px;
+	border:10px solid #000;
+}
+#video4 {
+	background-color: #000;
+	position: relative;
+	height: 200px;
+	width: 350px;
+	top: -302px;
+	left: 227px;
+	border:10px solid #000;
+}
+#seta {
+	position: relative;
+	height: 35px;
+	width: 65px;
+	top: -265px;
+	z-index: 10;
+}
+#meio3 {
+	position: relative;
+	height: 450px;
+	width: 100%;
+	top: -200px;
+	z-index: 1;
+}
+#textvideo1 {
+	position: relative;
+	height: 30px;
+	width: 300px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	top: -250px;
+	right: 25px;
+}
+#txtvideo2 {
+	text-align: left;
+	position: relative;
+	height: 30px;
+	width: 380px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	top: -250px;
+	right: 8px;
+}
+#txtvideo3 {
+	text-align: left;
+	position: relative;
+	height: 30px;
+	width: 300px;
+	top: -250px;
+	right: 25px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+}
+#txtvideo4 {
+	text-align: left;
+	position: relative;
+	height: 30px;
+	width: 300px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	top: -250px;
+	right: 25px;
+}
+#comprar1 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	background-color: #33cc66;
+	right: 330px;
+	top: 85px;
+}
+#compra2 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	background-color: #33cc66;
+	top: -270px;
+	right: 110px;
+}
+#compra3 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	top: -625px;
+	left: 110px;
+	background-color: #33cc66;
+}
+#compra4 {
+	position: relative;
+	height: 355px;
+	width: 200px;
+	top: -980px;
+	left: 330px;
+	background-color: #33cc66;
+}
+#linha1 {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	border:2px solid #FFF;
+	top: 10px;
+}
+#linha {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	top: 10px;
+	border:2px solid #FFF;
+}
+#linha3 {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	top: 10px;
+	border:2px solid #FFF;
+}
+#linha4 {
+	position: relative;
+	height: 330px;
+	width: 180px;
+	top: 10px;
+	border:2px solid #FFF;
+}
+#classico {
+	position: relative;
+	height: 30px;
+	width: 170px;
+	top: 10px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+}
+#valor1 {
+	position: relative;
+	height: 100px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+}
+#segundos1 {
+	text-align: center;
+	position: relative;
+	height: 20px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	top: -50px;
+}
+#bot1 {
+	position: relative;
+	height: 50px;
+	width: 170px;
+	text-align: center;
+	top: 90px;
+}
+
+#enviar{
+	font-weight: 700;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	color:#FFF;
+	width:150px;
+	height: 40px;
+	cursor: pointer; /* vai por o cursor como forma de mão ao passar por cima do botão */
+	cursor: hand; /* para o IE 5.x */
+	background-color:#000;
+	text-align: center;
+	margin: 0;
+	border: 0;
+	
+	
+	
+}
+
+#enviar:hover{
+	font-weight: 700;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	color:#33cc66;
+	width: 150px;
+	height: 40px;
+	cursor: pointer; /* vai por o cursor como forma de mão ao passar por cima do botão */
+	cursor: hand; /* para o IE 5.x */
+	background-color:#FFF;
+	text-align: center;
+	margin: 0;
+	border: 0;
+	
+	
+}
+#DRAW {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	top: 10px;
+}
+#valor {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+#segundos2 {
+	text-align: center;
+	position: relative;
+	height: 20px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+	
+}
+#bot2 {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	top: 140px;
+	
+}
+#geometrico {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 180px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	top: 10px;
+}
+#valor3 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+#meiomeio {
+	position: relative;
+	height: 20px;
+	width: 100%;
+	top: -200px;
+}
+#barrafinal {
+	background-color: #000;
+	position: relative;
+	height: 300px;
+	width: 100%;
+	top: 10px;
+}
+#segundos3 {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+}
+#comprar3 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	top: 130px;
+}
+#basico {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	top: 10px;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+}
+#vlor4 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	font-weight: 700;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+#segundos4 {
+	text-align: center;
+	position: relative;
+	height: 30px;
+	width: 170px;
+	font-weight: 300;
+	font-size: 15px;
+	font-family: 'Roboto Slab', serif;
+}
+#comprar4 {
+	text-align: center;
+	position: relative;
+	height: 50px;
+	width: 170px;
+	top: 130px;
+}
+#barrafinal table tr td {
+	color: #FFF;
+	text-align: left;
+}
+#textopagar {
+	position: relative;
+	height: 150px;
+	width: 710px;
+	font-weight: 700;
+	font-size: 30px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	color: #33cc66;
+	top: 80px;
+}
