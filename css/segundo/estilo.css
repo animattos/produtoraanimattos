@@ -1,0 +1,321 @@
+
+}
+
+@media screen and (min-width:641px) and (max-width:768px) {
+	#divmenumobile{
+		width:60%;
+		left: 5%;
+	}
+	#menumobile{
+		margin-top:1px !important;
+	}
+	.classlightregistre{
+		top:20px;
+		width:95%;
+	}
+	.divlogin{display:none}
+	.duascolunas{ width:95%; float:none; margin-left:1%;}
+	.links-img-governo{display: grid;line-height: 5;}
+	.tabela-participe{ width:99%;margin-bottom: 1.5%;}
+	.coluna-bairro{width:96%; float:none;margin-left:3.5%;}
+	.coluna-cidade, .coluna-nicho{width:96%; float:none;margin-left:3.5%;}
+	.coluna-interior{width:96%; float:none;margin-left:3.5%;}
+	.guia-abcd{width:96%; float:none;margin-left:3.5%;}
+	.guia-metropolitano{width:96%; float:none;margin-left:3.5%;}
+	.guia-litoral{width:96%; float:none;margin-left:3.5%;}
+	.primeira-coluna{ margin-left:0%;}
+	.ultima-coluna{margin-right:0%;}
+	.youtube{ width:99%;}
+	#tempoprevisao{ width:99%; height:auto;}
+	#cadastre-buttom{ width:396px; height:42px;}
+	.mapabrasil{text-align:center;padding-right: 0%;}
+	.brasilmapa{ width:95% !important;}
+	.centralizado{ width:100%;}
+}
+
+@media screen and (min-width:769px) and (max-width:1024px) {
+	#divmenumobile{
+		width:28%;
+		left:12%;
+		top: 346px;
+	}
+	#menumobile{
+		margin-top:5px !important;
+	}
+	.classlightregistre{
+		top:20px;
+		width:95%;
+	}
+	.divlogin{display:none}
+	.links-img-governo{display: grid;line-height: 5;}
+	.tabela-participe{ width:99%;}
+}
+
+@media screen and (min-width:1024px) and (max-width:1193px) {
+	#divmenumobile{
+		left: 12.5%;
+	}
+}
+
+@media screen and (min-width:1194px) {
+	#divmenumobile{
+		left: 12%;
+		height: 280px !important;
+	}
+}
+
+   /* Button 2 */
+.btn-2 {
+	background: #44be5c;
+	color: #fff;
+	box-shadow: 0 6px #286d36;
+	-webkit-transition: none;
+	-moz-transition: none;
+	transition: none;
+    position: relative;
+    overflow: hidden;
+    margin: 6em 0;
+    width: 35%;
+    padding: 1em 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 15px;
+    z-index: 3;
+}
+
+/* Button 2a */
+.btn-2a {
+	border-radius: 0 0 5px 5px;
+}
+
+.btn-2a:hover {
+	box-shadow: 0 4px #286d36;
+	top: 2px;
+    color:#fff !important;
+}
+
+.btn-2a:active {
+	box-shadow: 0 0 #ab3c3c;
+	top: 6px;
+}
+.icon-arrow-right:before {
+	content: "\f0a9";font-family: FontAwesome;font-style: normal;font-weight: normal;text-decoration: inherit;
+    position: absolute;
+	height: 100%;
+    font-size: 25px;
+    line-height: 2;
+	color: #fff;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+        left: 130%;
+	top: 0;
+}
+ 
+
+.icon-arrow-right:hover:before {
+	left: 91%;
+}
+
+.mensagem-pulse{
+	-webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+background: rgba(68, 190, 92, 1);
+width: 238px;
+height: 33px;
+position: fixed;
+bottom: 24px;
+left: 43px;
+padding: 7px 0 0 45px;
+border-radius: 9px;
+color: #fff;
+font-weight: normal;
+font-size: 15px;
+z-index: 3;}
+.efeito-pulse{
+background: rgba(68, 190, 92, 0.8);
+width: 227px;
+height: 47px;
+position: fixed;
+bottom: 17px;
+left: 48px;
+padding: 0;
+border-radius: 9px;
+color: #fff;
+font-weight: bold;
+-webkit-animation: anim-effect-boris 1s infinite;
+animation: anim-effect-boris 1s infinite;
+animation-delay: 1s;
+z-index: 2;
+}
+
+
+@keyframes anim-effect-boris {
+0% {
+    -webkit-transform: scale3d(0.3, 0.3, 1);
+    transform: scale3d(0.3, 0.3, 1);
+}
+25%, 50% {
+    opacity: 1;
+}
+to {
+    opacity: 0;
+    -webkit-transform: scale3d(1.2, 1.2, 1);
+    transform: scale3d(1.2, 1.2, 1);
+}
+}
+.divlistasubcategoriash ul li a{font-weight: normal;}
+
+.fotonamoramica-paralax{width: 100%;height: 200px;background: no-repeat fixed center;background-size: cover;background-image: url(images/overlay.png), linear-gradient(140deg, rgba(43, 41, 106, 0.51), rgba(255, 153, 0, 0.51)), url(imgs/encontra-html-fundo.jpg);    margin: 0 0 10px 0;overflow: hidden;position: relative;}
+.whatsApp img{z-index: 3;position: fixed;bottom: 25px;left: 48px;width: 30px;}
+    
+.guia-nicho{padding-left: 20px;margin-top: 10px;font-size: 14px;}  
+.coluna-nicho{width: 24%;height: auto;float: left;text-align: left;}
+h2#zonas-cidade strong{border-bottom: 2.4px solid #ff9900;padding-bottom: 2%; padding-right: 10%;}
+div#redessociais {width: 100%;}
+div#redessociais p{width: 100%; font-weight: bold;font-size: 16px;}
+div#redessociais ul.icons-redessociais{list-style: none;padding: 0;margin: 1em 0;display: inline-flex;}
+div#redessociais ul.icons-redessociais li{padding-top: 12px;margin: 0 .3em;background: rgba(0,0,0,.7);border-radius: 100%;width: 45px;height: 45px;}
+div#redessociais ul.icons-redessociais li a i.fa{color: #fff; font-size: 20px;}
+div#redessociais ul.icons-redessociais li a:hover i.fa{color: #ff8b45;transition: all .3s ease-out;}
+div#redessociais ul.icons-redessociais li:hover{background: #2b296a;transition: all .3s ease-out;}
+div#redessociais ul.icons-redessociais li a{padding: 12px;}
+div#redessociais ul.icons-redessociais li.facebook{margin-left: 0;}
+div#redessociais ul.icons-redessociais li.gplus{}
+div#redessociais ul.icons-redessociais li.youtube{}
+div#redessociais ul.icons-redessociais li.twitter{}
+div#redessociais ul.icons-redessociais li.instagram{}
+div#redessociais ul.icons-redessociais li.slideshare{}
+div#redessociais ul.icons-redessociais li.linkedin{}
+div#redessociais ul.icons-redessociais li.googlesites{margin-right: 0;}
+
+#videoyoutube{max-width:750px;height:420px;width:100%;} 
+.colunamaior{width: 65%;}
+.colunamenor{width: 34%;padding-left: 20px;}
+#EBRYoutube{padding-left: 3.7em;}
+
+.bars-menu{
+  width: 35px;
+  height: 5px;
+  margin-bottom: 4px;
+  background: #fff;
+  box-sizing: border-box;
+}  
+  .bar-1 {
+    transform-origin: top left;
+    transition: .5s
+  }
+  .bar-2{
+    opacity: 100%;
+    transition: 1s;
+  }
+  .bar-3 {
+    transform-origin: bottom left;
+    transition: .5s
+  }  
+  .bar1-x{
+    transform: rotate(40deg) translate(4px, -3px);
+    transition: .5s;
+  }
+  .bar2-x{
+    opacity: 0;
+    transition: .5s;
+  }  
+  .bar3-x{
+    transform: rotate(-40deg) translate(3px, 7px);
+    transition: .5s;
+  }    
+.menumobile li:hover{    background: #2b296a;transition: all .2s ease-out}
+.links-banner-servicos{width: 82%;padding-bottom: 1em;display: inline-flex;}
+.anuncie-banner{    background: linear-gradient(to bottom,rgba(255,255,255,0), #ff9900), url(https://www.encontrabrasil.com.br/imgs/anuncie-sua-empresa.jpg) center no-repeat;color:#fff;border: 1px solid #ff9900;}
+.criacao-de-sites-banner{background:linear-gradient(to bottom,rgba(255,255,255,0), #292867), url(https://www.encontrabrasil.com.br/imgs/crie-seu-site.jpg) center no-repeat;color: #fff;border: 1px solid #292867;}
+.criacao-de-sites-banner, .anuncie-banner{width: 35%;margin: 0 1.5em;padding: 1em;border-radius: 5px;font-size: 17px;flex: 1;    background-size: cover;}
+.criacao-de-sites-banner p, .anuncie-banner p{text-align: center;font-weight: bold;text-shadow: 0px 0px 3px #000;}
+.btn-3a, .btn-3b{border-radius:5px;}
+.btn-3a{background: #ff9900;
+box-shadow: 0 6px #9e5f00;}
+.btn-3b{background: #292867;
+box-shadow: 0 6px #161535;}
+.btn-3{    
+color: #fff;
+-webkit-transition: none;
+-moz-transition: none;
+transition: none;
+position: relative;
+overflow: hidden;
+margin: 2em 0;
+width: 90%;
+padding: 1em 0;
+font-weight: bold;
+text-transform: uppercase;
+letter-spacing: 1px;}
+
+.btn-3a:hover {
+box-shadow: 0 4px #9e5f00;
+top: 2px;
+color:#fff !important;
+}
+.btn-3b:hover{box-shadow: 0 4px #161535;
+top: 2px;
+color:#fff !important;}
+
+.btn-3a:active, .btn-3b:active {
+box-shadow: 0 0 #ab3c3c;
+top: 6px;
+}
+.icon-right:before {
+content: "\f0a9";font-family: FontAwesome;font-style: normal;font-weight: normal;text-decoration: inherit;
+position: absolute;
+height: 100%;
+font-size: 25px;
+line-height: 2;
+color: #fff;
+-webkit-transition: all 0.3s;
+-moz-transition: all 0.3s;
+transition: all 0.3s;
+left: 130%;
+top: 0;
+}
+.icon-right:hover:before{    left: 84%;color: #ffffff;}
+.imgbandeira-brasil{max-width:400px;width:100%;height:auto;}
+.sobre-mais{position: relative;}
+ #maislista{text-align: left;    padding-bottom: 1em;}
+#maislista ul{max-width: 100%;display: flex;padding: 0;}
+#maislista ul li{flex: 1;text-align: center;padding: .5em 0;font-size: 14px;}
+#maislista ul li:before{content:'\f058';color:#3897f9;font-family: FontAwesome;font-style: normal;font-weight: normal;text-decoration: inherit;margin-right: 5px;}
+.titulo-sobre{color: #FF6600;font-size: 22px;font-weight: bold;padding-left: 1em;}
+    
+    
+.estados-contatos{position:relative;width:72%;margin-right:1%; display:flex;}
+.estado-contatos{flex: 1;margin: 0 1em;border: 1px solid #000;border-radius: 5px;width: 197px;padding: 29% 0;font-size: 20px;overflow: hidden;position: relative;}
+#telefone-destaque{position: absolute;top: 38%;z-index: 2;width: 100%;left: 0;color:#fff;text-shadow: 0px 0px 3px #000;}
+.estado-contatos:hover #img-telefone-brasil{   filter: brightness(100%);}
+#img-telefone-brasil{position: absolute;top: -58px;left: 0;z-index: -1;filter: brightness(60%);transition: all .3s ease-out;}
+#descemobile{display: none;}
+@media screen and (max-width:500px){
+            .mensagem-pulse{bottom: 29px;padding: 5px 0 0 39px;font-size: 16px;width: 151px;left: 29px;font-weight: 300;letter-spacing: 1px;font-size: medium;}
+            .whatsApp img{bottom: 31px; left: 33px;}
+            .nomobile-whatsapp{display: none;}
+            .efeito-pulse{width: 157px;height: 42px;bottom: 24px;   left: 32px;}
+            div#redessociais ul.icons-redessociais{display: inline-block;}
+            div#redessociais ul.icons-redessociais li{float: left; margin: .3em;padding-top: 8px;width: 30px;height: 30px;}
+            div#redessociais ul.icons-redessociais li a i.fa{font-size: 16px;}
+            .btn-2{width: 90%;}
+            .coluna-cidade, .coluna-nicho{width: 100%;}
+            div#redessociais{padding-bottom: 4em;}
+            #videoyoutube{max-width:450px;height:315px;width:90%;} 
+            .estados-contatos{width: 100%;display: table-cell;}
+            .estado-contatos{flex: none;margin: 1em 0;width: 200px;}
+            #maislista ul{display: list-item;}
+            #maislista ul li{flex: none;text-align: left;padding: .5em 1em;}
+            .links-banner-servicos{    display: contents;}
+            .botoesencontra{width: 90%;margin-bottom: 1em;}
+            #sobemobile{display: none;}
+            #descemobile{display: block;}
+            .colunamaior{width: 100%;}
+            .colunamenor{width: 100%;}
+            #EBRYoutube{padding-left: .5em;}
+            .evidencia-texto{padding-left: 1em;padding-top: 1em;}
+        }
+
