@@ -589,7 +589,7 @@
 #textopagar {
 	position: relative;
 	height: 100px;
-	width: 400px;
+	width: 300px;
 	font-weight: 700;
 	font-size: 20px;
 	font-family: 'Roboto Slab', serif;
@@ -689,7 +689,7 @@
 #logo {
 	position: relative;
 	height: 30px;
-	width: 210px;
+	width: 300px;
 	background-image: url(../IMG/logo.png);
 	background-repeat: no-repeat;
 	top: 80px;
