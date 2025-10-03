@@ -124,6 +124,13 @@
 	background-position: center;
 	
 }
+#fim { text-align: center; }
+#fim .logo-rodape{
+  display: block;
+  margin: 10px auto 0;
+  width: 100px;        /* ajuste como quiser */
+  height: auto;
+}
 #art1:hover {
 	transition:all 0.3s ease;
 	-webkit-transform: scale(1.3);
