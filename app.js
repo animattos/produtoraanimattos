@@ -6,9 +6,7 @@ const DATA = {
 
   "PEPÊ": {
     title: "PEPÊ",
-    description: `coloca esse personagem na pose do rascunho, não seguir os traços do rascunho e apenas seguir a pose fiel mostrada no rascunho.
-
-Um filhote de javali com um estilo cartoon super carismático e expressivo.
+    description: `Um filhote de javali com um estilo cartoon super carismático e expressivo.
 
 Características Físicas e Cores
 • Corpo Baby: Ele segue a estética "chibi" ou "baby", com uma cabeça proporcionalmente grande, corpo redondo e rechonchudo, e membros curtos.
@@ -24,8 +22,6 @@ Ilustração: estilo cartoon infantil, traços limpos, cores chapadas com nuance
     image: "imagens/bichos/pepe.jpg"
   },
  
-
-
 
   
 // TOTÓ
@@ -47,9 +43,105 @@ Características Físicas e Cores
     image: "imagens/bichos/toto.jpg"
   },
 
-// SASÁ
+// CORUJA
+
+  "CORUJA": {
+    title: "CORUJA",
+    description: `uMA CORUJA com um estilo cartoon super carismático e expressivo.
+    Personagem: Ele segue a estética "chibi" ou "baby" de uma coruja acadêmica. Este é um design de desenho animado limpo, simpático e atraente, apresentando uma versão amigável, fofa e expressiva de uma corujinha intelectual.
+
+Corpo: O corpo é predominantemente laranja-escuro/avermelhado, com o peito e a face em um tom de laranja-claro e caloroso. As penas do peito e das asas são sugeridas por ondulações suaves. Ele usa um broche dourado ou medalha circular no lado esquerdo do peito com o desenho de um livro aberto. Os pés são amarelos e robustos com três garras visíveis.
+
+Cabeça: A cabeça é grande e arredondada em relação ao corpo, com pequenos "chifres" de penas (tufos auriculares) no topo em um tom marrom-escuro. Os olhos são grandes, castanhos e brilhantes, transmitindo curiosidade. O bico é curto, curvado e de cor amarela. O personagem usa óculos grandes e redondos com armação azul-celeste vibrante, que se apoiam atrás das asas na vista lateral e traseira.
+
+Postura (Model Sheet): O personagem é apresentado em um turnaround de três posições: de frente, de perfil (lado direito) e de costas. Ele mantém uma postura ereta, confiante e carismática em todas as visões, mostrando uma cauda curta e arredondada na parte de trás.
+Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas, (line art) é feito com linhas tom mais escuras bem definida.
+ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+
+ `,
+    image: "imagens/bichos/coruja.jpg"
+  },
 
 
+
+// BABÁ
+
+ "BABÁ": {
+    title: "BABÁ",
+    description: `Um sapo com um estilo cartoon super carismático e expressivo. 
+Características Físicas e Cores
+•	Personagem: Ele segue a estética "chibi" ou "baby" Este é um design de desenho animado limpo, simpático e atraente numa versão amigável e expressiva de um grilo.
+•	Esquema de Cores: O personagem é predominantemente verde, com variações de tonalidade. O corpo principal é verde-claro com manchas verdes mais escuras. A barriga e o interior das patas são de um verde-pálido ou creme para contraste.
+•	Textura: uma textura levemente granulada (stippling), nas áreas de sombra.
+•	Olhos Proeminentes: Esta é a característica mais marcante. O sapo tem olhos grandes, redondos e expressivos, com íris verdes e pupilas grandes e brilhantes que lhe dão um olhar inocente e curioso.
+•	Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas, (line art) é feito com linhas tom mais escuras bem definida.
+•	ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+`,
+    image: "imagens/bichos/baba.jpg"
+  },
+
+// DIGALÁ
+ "DIGALÁ": {
+    title: "DIGALÁ",
+    description: `Um filhote de grilo com um estilo cartoon super carismático e expressivo. 
+Características Físicas e Cores
+•	Personagem: Ele segue a estética "chibi" ou "baby" Este é um design de desenho animado limpo, simpático e atraente numa versão amigável e expressiva de um grilo.
+•	Olhos Proeminentes: A característica facial mais marcante são os olhos grandes, redondos e expressivos. Eles têm pupilas marrons escuras com grandes destaques brancos e brilhantes.
+•	Antenas: Possui duas antenas verdes finas e segmentadas saindo do topo de sua cabeça. Elas terminam em pequenas pontas arredondadas e bulbosas.
+•	Esquema de Cores: A cor predominante é um verde limão vibrante e brilhante. A parte inferior do corpo (o abdômen visto de frente e de trás) é de um verde-amarelado mais claro ou creme, com faixas segmentares sutis.
+•	Forma do Corpo: Tem uma forma de corpo arredondada e compacta, o que contribui para o seu design fofo e não ameaçador.
+•	Asas: Possui asas élitros (as asas superiores endurecidas) de cor azul-petróleo ou verde-azulado claro. Elas são dobradas sobre o dorso e têm uma textura sutil de veias em algumas vistas.
+•	Textura: uma textura levemente granulada (stippling), nas áreas de sombra.
+•	Pernas: Ele tem duas pernas traseiras de salto distintas e musculosas características dos grilos. Elas são dobradas em uma posição de repouso ou de prontidão, mostrando suas coxas largas e três serrinhas levemente arredondadas. Os braços dianteiras e médias são finas e usadas para se apoia ou para segurar coisas. 
+•	Pés: Os pés são simples e arredondados, sem detalhes complexos de garras ou tarsos.
+•	Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas, (line art) é feito com linhas tom mais escuras bem definida.
+•	ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+
+`,
+    image: "imagens/bichos/digala.jpg"
+  },
+
+// TATÁ
+ "TATÁ": {
+    title: "TATÁ",
+    description: `Um filhote de cobra chocalho (rattlesnake) com um estilo cartoon super carismático e expressivo. 
+Características Físicas e Cores
+•	Textura: uma textura levemente granulada (stippling), nas áreas de sombra.
+•	Personagem: Ele segue a estética "chibi" ou "baby" Este é um design de desenho animado limpo, simpático e atraente numa versão amigável e expressiva de uma cobra.
+•	Corpo: O corpo é predominantemente laranja-claro com manchas arredondadas de cor vermelha escura ou marrom-avermelhada. A barriga é de uma cor creme ou amarelo-pálido, com listras horizontais para indicar escamas ventrais.
+•	Textura: uma textura levemente granulada (stippling), nas áreas de sombra.
+•	Cabeça: A cabeça é grande em relação ao corpo, com olhos verdes grandes e expressivos. Ela tem cílios longos, o que sugere um personagem feminino. 
+•	Postura: A cobra está sentada, com a parte frontal do corpo erguida e o resto do corpo enrolado na base.
+•	O chocalho na ponta da cauda é segmentado e de cor rosa, contrastando com o corpo laranja. 
+•	Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas, (line art) é feito com linhas tom mais escuras bem definida.
+•	ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+
+
+`,
+    image: "imagens/bichos/tata.jpg"
+  },
+
+
+// CANÁRIO CANTOR
+
+ "CANÁRIO": {
+    title: "CANÁRIO CANTOR",
+    description: `Um filhote de canário com um estilo cartoon super carismático e expressivo. 
+Características Físicas e Cores
+•	Paleta de Amarelos: O corpo é predominantemente amarelo canário brilhante, com variações sutis para dar volume.
+•	Sombreamento Granulado: O grande diferencial deste design é a sombra com textura levemente granulada (stippling), visível na parte inferior da cabeça, barriga e sob as asas, o que confere profundidade sem perder o estilo ilustrativo.
+•	Olhos: Grandes e expressivos, com íris na cor marrom chocolate e pupilas pretas com pontos de brilho, dando uma aparência "viva".
+•	Bico e Patas: Apresentam uma cor laranja suave/terrosa, criando um contraste quente com o corpo amarelo.
+•	Cabeça Proporcionalmente Grande: Segue a estética chibi/baby, com uma cabeça redonda e grande em relação ao corpo, o que acentua a fofura do personagem.
+•	Topete: Possui um pequeno tufo de penas (topete) de três pontas no topo da cabeça, dando um toque de personalidade.
+•	Asas e Cauda: As asas são pequenas e arredondadas, com detalhes de penas sugeridos por linhas simples. A cauda é curta e em formato de leque, visível tanto de perfil quanto na vista de costas.
+•	Patas: São finas, mas com dedos arredondados e firmes, permitindo que o personagem fique em pé de forma estável.
+•	Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas, (line art) é feito com linhas marrons escuras bem definida.
+•	ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+
+`,
+    image: "imagens/bichos/canario.jpg"
+  },
 
 // SASÁ
 
@@ -75,6 +167,22 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
 
 DATA["PEPE"]   = DATA["PEPÊ"];
 DATA["SACA"]   = DATA["SAÇÁ"];
+DATA["CANARIO"]   = DATA["CANÁRIO"];
+DATA["CANTOR"]   = DATA["CANÁRIO"];
+DATA["CANARIO CANTOR"]   = DATA["CANÁRIO"];
+DATA["CANÁRIO CANTOR"]   = DATA["CANÁRIO"];
+DATA["BABA"]   = DATA["BABÁ"];
+DATA["TOTO"]   = DATA["TOTÓ"];
+DATA["TATA"]   = DATA["TATÁ"];
+DATA["DIGALA"]   = DATA["DIGALÁ"];
+DATA["CORUJÃO"]   = DATA["CORUJA"];
+DATA["PROFESSOR CORUJA"]   = DATA["CORUJA"];
+DATA["PROFESSOR CORUJÃO"]   = DATA["CORUJA"];
+
+
+
+
+
 
 const qInput = document.getElementById('query');
 const actionInput = document.getElementById('action');
