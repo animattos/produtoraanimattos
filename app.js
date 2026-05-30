@@ -24,6 +24,10 @@ Ilustração: estilo cartoon infantil, traços limpos, cores chapadas com nuance
     image: "/imagens/bichos/pepe.jpg"
   },
  
+
+
+
+  
 // custom format control logic
 
   "SASÁ": {
@@ -61,6 +65,14 @@ Ilustração infantil digital vibrante e dinâmica no estilo cartoon, traços 
     image: "/MODEL SASÁ.jpg"
   }
 };
+
+
+// VARIANTES
+
+DATA["PEPE"]   = DATA["PEPÊ"];
+
+
+
 
 const qInput = document.getElementById('query');
 const actionInput = document.getElementById('action');
