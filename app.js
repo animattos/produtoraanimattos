@@ -28,41 +28,45 @@ Ilustração: estilo cartoon infantil, traços limpos, cores chapadas com nuance
 
 
   
-// custom format control logic
+// TOTÓ
 
-  "SASÁ": {
-    title: "SASÁ",
-    description: `AÇÃO - coloca essa personagem na pose do rascunho, não seguir os traços do rascunho e apenas seguir a pose fiel mostrada no rascunho.
-
-Uma filhote de leopardo (ou jaguar) com um estilo cartoon super carismático e expressivo.
-
-Características Físicas
-• Coloração: O corpo tem um tom vibrante de laranja dourado, com o peito, a barriga e o focinho em um tom creme/bege mais claro. Algumas leves texturas nos pontos de sombreamentos para uma sensação tátil, de desenho à mão.
-• Padrão de Pintas: Possui manchas arredondadas em marrom escuro distribuídas de forma harmônica pela cabeça, braços, pernas e cauda.
-• Olhos: São grandes e expressivos, com íris na cor verde esmeralda e cílios delicados, o que confere uma aparência amigável e juvenil.
-• Orelhas: Arredondadas, com o interior em tom de rosa e a borda externa marrom, combinando com as manchas.
-• Sorriso: O sorriso sempre mostra as pequenas presas e a língua, junto com as bochechas levemente rosadas.
-• Traços: O contorno é feito com linhas firmes e limpas; há um pequeno tufo de pelos no topo da cabeça e detalhes de pelagem nas laterais do rosto e no peito.
-• Anatomia: Segue o estilo chibi/antropomórfico (fica de pé em duas patas), com mãos e pés grandes e arredondados; formas arredondadas e amigáveis.
-Ilustração infantil digital vibrante e dinâmica no estilo cartoon, traços limpos, arte final precisa e cores chapadas com nuances; acabamento suave e texturizado, lembrando "classic storybook illustration".`,
-    image: "/MODEL SASÁ.jpg"
+  "TOTÓ": {
+    title: "TOTÓ",
+    description: `Um filhote de macaquinho com um estilo cartoon super carismático e expressivo. 
+Características Físicas e Cores
+•	Cor Principal: O corpo é coberto por uma pelagem em tons de marrom avermelhado (terracota), com uma textura sutil que lembra granulado ou giz de cera nas bordas.
+•	Detalhes Claros: O rosto, o peito, as mãos e os pés apresentam um tom de bege alaranjado mais claro.
+•	Rosto: Possui bochechas rosadas e expressivas, um nariz pequeno e arredondado, e grandes olhos castanhos brilhantes com um estilo "kawaii" (pupilas grandes e reflexos de luz).
+•	Orelhas: Grandes e circulares, com a parte interna em um tom de rosa suave.
+•	Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas. Há um pequeno tufo de pelos no topo da cabeça e detalhes de pelagem nas laterais do rosto e no peito, dando uma textura fofinha.
+•	Proporções: Estilo chibi ou infantil, com a cabeça proporcionalmente maior que o corpo para transmitir fofura, ideais para mascote infantil. O design geral deve ser composto de formas arredondadas e amigáveis.
+•	Cauda: Longa, fina e extremamente flexível, terminando em uma forma de espiral (caracol).
+•	Pés e Mãos: Possui quatro dedos simplificados em cada extremidade, mantendo o visual lúdico.
+•	ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+`,
+    image: "/imagens/bichos/toto.jpg"
   },
-  "ONÇA": {
-    title: "ONÇA",
-    description: `AÇÃO - coloca essa personagem na pose do rascunho, não seguir os traços do rascunho e apenas seguir a pose fiel mostrada no rascunho.
 
-Uma filhote de leopardo (ou jaguar) com um estilo cartoon super carismático e expressivo.
+// SASÁ
 
+
+
+// SASÁ
+
+  "SAÇÁ": {
+    title: "SAÇÁ",
+    description: `Uma filhote de leopardo (ou jaguar) com um estilo cartoon super carismático e expressivo. 
 Características Físicas
-• Coloração: O corpo tem um tom vibrante de laranja dourado, com o peito, a barriga e o focinho em um tom creme/bege mais claro. Algumas leves texturas nos pontos de sombreamentos para uma sensação tátil, de desenho à mão.
-• Padrão de Pintas: Possui manchas arredondadas em marrom escuro distribuídas de forma harmônica pela cabeça, braços, pernas e cauda.
-• Olhos: São grandes e expressivos, com íris na cor verde esmeralda e cílios delicados, o que confere uma aparência amigável e juvenil.
-• Orelhas: Arredondadas, com o interior em tom de rosa e a borda externa marrom, combinando com as manchas.
-• Sorriso: O sorriso sempre mostra as pequenas presas e a língua, junto com as bochechas levemente rosadas.
-• Traços: O contorno é feito com linhas firmes e limpas; há um pequeno tufo de pelos no topo da cabeça e detalhes de pelagem nas laterais do rosto e no peito.
-• Anatomia: Segue o estilo chibi/antropomórfico (fica de pé em duas patas), com mãos e pés grandes e arredondados; formas arredondadas e amigáveis.
-Ilustração infantil digital vibrante e dinâmica no estilo cartoon, traços limpos, arte final precisa e cores chapadas com nuances; acabamento suave e texturizado, lembrando "classic storybook illustration".`,
-    image: "/MODEL SASÁ.jpg"
+•	Coloração: O corpo tem um tom vibrante de laranja dourado, com o peito, a barriga e o focinho em um tom creme/bege mais claro. Algumas leve texturas nos pontos de sombreamentos para uma sensação tátil, de desenho à mão.
+•	Padrão de Pintas: Possui manchas arredondadas em marrom escuro distribuídas de forma harmônica pela cabeça, braços, pernas e cauda.
+•	Olhos: São grandes e expressivos, com íris na cor verde esmeralda e cílios delicados, o que confere uma aparência amigável e juvenil.
+•	Orelhas: Arredondadas, com o interior em tom de rosa e a borda externa marrom, combinando com as manchas.
+•	O sorriso sempre mostra as pequenas presas e a língua, junto com as bochechas levemente rosadas.
+•	Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas. Há um pequeno tufo de pelos no topo da cabeça e detalhes de pelagem nas laterais do rosto e no peito, dando uma textura fofinha.
+•	Anatomia: Segue o estilo chibi ou antropomórfico (fica de pé em duas patas), com mãos e pés grandes e arredondados, ideais para mascote infantil. O design geral deve ser composto de formas arredondadas e amigáveis.
+ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+`,
+    image: "/imagens/bichos/sasa.jpg"
   }
 };
 
@@ -70,6 +74,8 @@ Ilustração infantil digital vibrante e dinâmica no estilo cartoon, traços 
 // VARIANTES
 
 DATA["PEPE"]   = DATA["PEPÊ"];
+DATA["SACA"]   = DATA["SAÇÁ"];
+
 
 
 
