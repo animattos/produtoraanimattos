@@ -1,4 +1,4 @@
-const DATA = {
+const SASA_DATA = {
  
  
 // SAÇÁ
