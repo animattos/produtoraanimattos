@@ -47,14 +47,13 @@ Características Físicas e Cores
 
   "CORUJA": {
     title: "CORUJA",
-    description: `uMA CORUJA com um estilo cartoon super carismático e expressivo.
+    description: `Uma CORUJA com um estilo cartoon super carismático e expressivo.
     Personagem: Ele segue a estética "chibi" ou "baby" de uma coruja acadêmica. Este é um design de desenho animado limpo, simpático e atraente, apresentando uma versão amigável, fofa e expressiva de uma corujinha intelectual.
 
 Corpo: O corpo é predominantemente laranja-escuro/avermelhado, com o peito e a face em um tom de laranja-claro e caloroso. As penas do peito e das asas são sugeridas por ondulações suaves. Ele usa um broche dourado ou medalha circular no lado esquerdo do peito com o desenho de um livro aberto. Os pés são amarelos e robustos com três garras visíveis.
 
 Cabeça: A cabeça é grande e arredondada em relação ao corpo, com pequenos "chifres" de penas (tufos auriculares) no topo em um tom marrom-escuro. Os olhos são grandes, castanhos e brilhantes, transmitindo curiosidade. O bico é curto, curvado e de cor amarela. O personagem usa óculos grandes e redondos com armação azul-celeste vibrante, que se apoiam atrás das asas na vista lateral e traseira.
 
-Postura (Model Sheet): O personagem é apresentado em um turnaround de três posições: de frente, de perfil (lado direito) e de costas. Ele mantém uma postura ereta, confiante e carismática em todas as visões, mostrando uma cauda curta e arredondada na parte de trás.
 Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas, (line art) é feito com linhas tom mais escuras bem definida.
 ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
 
