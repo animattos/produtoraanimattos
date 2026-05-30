@@ -1,7 +1,7 @@
 const DATA = {
  
  
-
+// SAÇÁ
 
 
   "saçá": {
@@ -18,7 +18,7 @@ Características Físicas:
 ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
 `,
     
-    image: "imagens/bichos/pepe.jpg"
+    image: "imagens/bichos/sasa.jpg"
   },
 
   "SASÁ": SASA_DATA,
@@ -38,7 +38,13 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
 };
 
 
+// normalize
 
+
+
+
+
+// FINAL PROMPET
 
 const qInput = document.getElementById('query');
 const actionInput = document.getElementById('action');
