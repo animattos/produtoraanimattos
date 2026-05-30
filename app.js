@@ -21,7 +21,7 @@ Características Físicas e Cores
 • Olhos Grandes e Expressivos: íris âmbar/marrom-avermelhada.
 • Orelhas Pontudas, Cauda Curta, Traços com line art limpa.
 Ilustração: estilo cartoon infantil, traços limpos, cores chapadas com nuances, acabamento suave e texturizado.`,
-    image: "/imagens/bichos/pepe.jpg"
+    image: "imagens/bichos/pepe.jpg"
   },
  
 
@@ -44,7 +44,7 @@ Características Físicas e Cores
 •	Pés e Mãos: Possui quatro dedos simplificados em cada extremidade, mantendo o visual lúdico.
 •	ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
 `,
-    image: "/imagens/bichos/toto.jpg"
+    image: "imagens/bichos/toto.jpg"
   },
 
 // SASÁ
@@ -66,7 +66,7 @@ Características Físicas
 •	Anatomia: Segue o estilo chibi ou antropomórfico (fica de pé em duas patas), com mãos e pés grandes e arredondados, ideais para mascote infantil. O design geral deve ser composto de formas arredondadas e amigáveis.
 ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
 `,
-    image: "/imagens/bichos/sasa.jpg"
+    image: "imagens/bichos/sasa.jpg"
   }
 };
 
