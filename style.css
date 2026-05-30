@@ -275,6 +275,10 @@ textarea#action:focus{
   border-radius:12px;
   border:1px solid #eef3fb;
   background:linear-gradient(180deg,rgba(11,132,255,0.03),transparent);
+
+  /* NOVO */
+  max-height:90vh;
+  overflow:auto;
 }
 .hidden{display:none}
 
@@ -292,16 +296,11 @@ textarea#action:focus{
   border:1px solid #f3f6fb;
 }
 .preview img{
-  /* responsive sizing: keep aspect and ensure the image fits the preview without being cropped */
   width:100%;
   height:auto;
-  /* increase cap so tall images can fit the viewport better without being cropped */
-  max-height:48vh;
+  max-height:70vh;
   max-width:100%;
   object-fit:contain;
-  border-radius:8px;
-  display:block;
-  box-shadow: 0 6px 18px rgba(16,24,40,0.04);
 }
 
 /* button placed below the image */
@@ -320,8 +319,20 @@ textarea#action:focus{
 .meta{flex:1; display:flex; flex-direction:column; gap:8px}
 .meta h2{margin:0;font-size:20px;letter-spacing:0.2px}
 .desc{margin:0;color:var(--muted);line-height:1.5;white-space:pre-wrap;font-size:14px;padding-right:4px}
-.actions{margin-top:auto; display:flex; gap:8px; align-items:center}
+.actions{margin-top:auto; display:flex; gap:8px; align-items:center
+}
+.meta{
+  flex:1;
+  display:flex;
+  flex-direction:column;
+  gap:8px;
 
+  min-width:0;
+}
+
+.desc{
+  overflow-wrap:break-word;
+}
 /* hint */
 .hint{color:var(--muted); font-size:13px; text-align:center; margin-top:4px}
 
