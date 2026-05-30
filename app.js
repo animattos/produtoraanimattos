@@ -30,6 +30,7 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
   "saçá": SASA_DATA,
   "SAÇÁ": SASA_DATA,
   "SACA": SASA_DATA,
+  "SACÁ": SASA_DATA,
   "ONÇA": SASA_DATA,
   "ONCA": SASA_DATA,
   "FELINO": SASA_DATA
