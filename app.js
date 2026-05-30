@@ -53,6 +53,7 @@ function norm(s){
   return String(s || "")
     .trim()
     .toUpperCase()
+    .replaceAll("Ç", "C")
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "");
 }
