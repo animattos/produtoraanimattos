@@ -77,9 +77,6 @@ DATA["PEPE"]   = DATA["PEPÊ"];
 DATA["SACA"]   = DATA["SAÇÁ"];
 
 
-
-
-
 const qInput = document.getElementById('query');
 const actionInput = document.getElementById('action');
 const formatControl = document.getElementById('formatControl');
@@ -287,8 +284,7 @@ async function copyTextOnly(){
   try{
     await navigator.clipboard.writeText(text);
     flashButton(btnCopyText, "Copiado");
-    // clear and prepare for new search after a short delay
-    setTimeout(() => resetSearch(), 600);
+    // do NOT reset the search automatically; user will press "Sair" to close
   }catch(e){
     console.error("copyTextOnly failed", e);
     flashButton(btnCopyText, "Erro");
@@ -311,7 +307,7 @@ async function copyImageOnly(){
       const clipboardItem = new ClipboardItem({ [blob.type]: blob });
       await navigator.clipboard.write([clipboardItem]);
       flashButton(btnCopyImage, "Copiado");
-      setTimeout(() => resetSearch(), 600);
+      // do NOT reset the search automatically; user will press "Sair" to close
       return;
     } else {
       // If ClipboardItem not available, fall through to canvas fallback
@@ -337,7 +333,7 @@ async function copyImageOnly(){
       if (navigator.clipboard && window.ClipboardItem) {
         await navigator.clipboard.write([new ClipboardItem({ [blob.type]: blob })]);
         flashButton(btnCopyImage, "Copiado");
-        setTimeout(() => resetSearch(), 600);
+        // do NOT reset the search automatically; user will press "Sair" to close
         return;
       } else if (navigator.clipboard && navigator.clipboard.writeText) {
         // as a last resort, copy a data URL as text so the user can paste it (some apps accept)
@@ -349,7 +345,7 @@ async function copyImageOnly(){
         });
         await navigator.clipboard.writeText(dataUrl);
         flashButton(btnCopyImage, "Copiado");
-        setTimeout(() => resetSearch(), 600);
+        // do NOT reset the search automatically; user will press "Sair" to close
         return;
       } else {
         throw new Error('Clipboard not supported');
@@ -378,6 +374,14 @@ btnSearch.addEventListener('click', search);
 qInput.addEventListener('keydown', (e)=>{ if(e.key==='Enter') search(); });
 btnCopyImage.addEventListener('click', copyImageOnly);
 btnCopyText.addEventListener('click', copyTextOnly);
+
+// exit button: allow user to close result and reset manually
+const btnExit = document.getElementById('btnExit');
+if(btnExit){
+  btnExit.addEventListener('click', () => {
+    resetSearch();
+  });
+}
 
 // start with empty input and defaults
 qInput.value = "";
