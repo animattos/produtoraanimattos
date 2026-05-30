@@ -76,7 +76,6 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
 DATA["PEPE"]   = DATA["PEPÊ"];
 DATA["SACA"]   = DATA["SAÇÁ"];
 
-
 const qInput = document.getElementById('query');
 const actionInput = document.getElementById('action');
 const formatControl = document.getElementById('formatControl');
