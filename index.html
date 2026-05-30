@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <title>Busca de Personagens</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <main class="card">
+    <div class="search-row">
+      <input id="query" aria-label="campo de busca" placeholder="Digite nome do personagem." />
+      <button id="btnSearch" class="btn primary">Buscar</button>
+    </div>
+
+    <div class="search-row">
+      <label for="action" class="visually-hidden">Ação</label>
+      <textarea id="action" rows="2" placeholder="Digite a AÇÃO que deseja aplicar ao resultado (ex: coloca esse personagem na pose do rascunho...)"></textarea>
+    </div>
+
+    <section id="result" class="result hidden" aria-live="polite">
+      <div class="preview">
+        <img id="resultImage" alt="imagem do personagem" src="" />
+        <!-- image copy button placed under the image for mobile-friendly layout -->
+        <button id="btnCopyImage" class="btn ghost btn-copy-image">Copiar imagem</button>
+      </div>
+      <div class="meta">
+        <h2 id="resultTitle"></h2>
+        <p id="resultDesc" class="desc"></p>
+        <div class="actions">
+          <button id="btnCopyText" class="btn">Copiar texto</button>
+        </div>
+      </div>
+    </section>
+
+    <div id="hint" class="hint">Sistema de Busca de Prompt</div>
+  </main>
+</body>
+</html>
