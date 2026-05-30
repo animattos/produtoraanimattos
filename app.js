@@ -1,13 +1,7 @@
 const SASA_DATA = {
- 
- 
-// SAÇÁ
-
-
-  "saçá": {
-    title: "saçá",
-    description: `Uma filhote de leopardo (ou jaguar) com um estilo cartoon super carismático e expressivo. 
-Características Físicas:
+  title: "saçá",
+  description: `Uma filhote de leopardo (ou jaguar) com um estilo cartoon super carismático e expressivo. 
+Características Físicas
 •	Coloração: O corpo tem um tom vibrante de laranja dourado, com o peito, a barriga e o focinho em um tom creme/bege mais claro. Algumas leve texturas nos pontos de sombreamentos para uma sensação tátil, de desenho à mão.
 •	Padrão de Pintas: Possui manchas arredondadas em marrom escuro distribuídas de forma harmônica pela cabeça, braços, pernas e cauda.
 •	Olhos: São grandes e expressivos, com íris na cor verde esmeralda e cílios delicados, o que confere uma aparência amigável e juvenil.
@@ -17,20 +11,17 @@ Características Físicas:
 •	Anatomia: Segue o estilo chibi ou antropomórfico (fica de pé em duas patas), com mãos e pés grandes e arredondados, ideais para mascote infantil. O design geral deve ser composto de formas arredondadas e amigáveis.
 ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
 `,
-    
-    image: "imagens/bichos/sasa.jpg"
-  },
+  
+  image: "imagens/bichos/sasa.jpg"
+};
+
+const DATA = {
 
   "SASÁ": SASA_DATA,
   "SASA": SASA_DATA,
-  "sasa": SASA_DATA,
-  "sasá": SASA_DATA,
-  "saca": SASA_DATA,
-  "sacá": SASA_DATA,
-  "saçá": SASA_DATA,
-  "SAÇÁ": SASA_DATA,
   "SACA": SASA_DATA,
   "SACÁ": SASA_DATA,
+  "SAÇÁ": SASA_DATA,
   "ONÇA": SASA_DATA,
   "ONCA": SASA_DATA,
   "FELINO": SASA_DATA
