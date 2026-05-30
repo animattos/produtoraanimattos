@@ -10,13 +10,38 @@
 <body>
   <main class="card">
     <div class="search-row">
-      <input id="query" aria-label="campo de busca" placeholder="Digite nome do personagem." />
-      <button id="btnSearch" class="btn primary">Buscar</button>
+      <input id="query" aria-label="campo de busca" placeholder="Digite o nome do personagem" />
+      <!-- custom format picker: shows small format icons next to each option -->
+      <div id="formatControl" class="format-control" role="listbox" aria-label="Formato" tabindex="0" title="Formato" aria-expanded="false" aria-activedescendant="">
+        <button class="format-toggle" aria-haspopup="listbox" aria-label="Selecionar formato">
+          <span class="format-icon format-icon-placeholder"></span>
+          <span class="format-label">Formato</span>
+          <svg class="caret" width="12" height="12" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7 10l5 5 5-5z"/></svg>
+        </button>
+        <ul class="format-list" role="presentation" hidden>
+
+          <li role="option" data-value="1:1" class="format-item" tabindex="-1"><span class="format-icon format-icon-1-1"></span><span class="format-text">1:1</span></li>
+          <li role="option" data-value="16:9" class="format-item" tabindex="-1"><span class="format-icon format-icon-16-9"></span><span class="format-text">16:9</span></li>
+          <li role="option" data-value="4:3" class="format-item" tabindex="-1"><span class="format-icon format-icon-4-3"></span><span class="format-text">4:3</span></li>
+          <li role="option" data-value="3:4" class="format-item" tabindex="-1"><span class="format-icon format-icon-3-4"></span><span class="format-text">3:4</span></li>
+          <li role="option" data-value="9:16" class="format-item" tabindex="-1"><span class="format-icon format-icon-9-16"></span><span class="format-text">9:16</span></li>
+        </ul>
+      </div>
+      <select id="qtySelect" aria-label="Quantidade" title="Quantidade">
+        <option value="1">x1</option>
+        <option value="4">x4</option>
+        <option value="6">x6</option>
+        <option value="8" selected>x8</option>
+      </select>
     </div>
 
     <div class="search-row">
       <label for="action" class="visually-hidden">Ação</label>
-      <textarea id="action" rows="2" placeholder="Digite o que você quer que o personagem esteja fazendo?"></textarea>
+      <textarea id="action" rows="2" placeholder="Digite uma ação para o seu personagem."></textarea>
+    </div>
+
+    <div class="action-row">
+      <button id="btnSearch" class="btn primary large">Buscar Prompt</button>
     </div>
 
     <section id="result" class="result hidden" aria-live="polite">

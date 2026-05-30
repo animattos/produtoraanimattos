@@ -1,44 +1,132 @@
-const SASA_DATA = {
-  title: "saçá",
-  description: `Uma filhote de leopardo (ou jaguar) com um estilo cartoon super carismático e expressivo. 
-Características Físicas
-•	Coloração: O corpo tem um tom vibrante de laranja dourado, com o peito, a barriga e o focinho em um tom creme/bege mais claro. Algumas leve texturas nos pontos de sombreamentos para uma sensação tátil, de desenho à mão.
-•	Padrão de Pintas: Possui manchas arredondadas em marrom escuro distribuídas de forma harmônica pela cabeça, braços, pernas e cauda.
-•	Olhos: São grandes e expressivos, com íris na cor verde esmeralda e cílios delicados, o que confere uma aparência amigável e juvenil.
-•	Orelhas: Arredondadas, com o interior em tom de rosa e a borda externa marrom, combinando com as manchas.
-•	O sorriso sempre mostra as pequenas presas e a língua, junto com as bochechas levemente rosadas.
-•	Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas. Há um pequeno tufo de pelos no topo da cabeça e detalhes de pelagem nas laterais do rosto e no peito, dando uma textura fofinha.
-•	Anatomia: Segue o estilo chibi ou antropomórfico (fica de pé em duas patas), com mãos e pés grandes e arredondados, ideais para mascote infantil. O design geral deve ser composto de formas arredondadas e amigáveis.
-ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
-`,
-  
-  image: "imagens/bichos/sasa.jpg"
-};
-
 const DATA = {
+  "PEPÊ": {
+    title: "PEPÊ",
+    description: `Um filhote de javali com um estilo cartoon super carismático e expressivo.
 
-  "SASÁ": SASA_DATA,
-  "SASA": SASA_DATA,
-  "SACA": SASA_DATA,
-  "SACÁ": SASA_DATA,
-  "SAÇÁ": SASA_DATA,
-  "ONÇA": SASA_DATA,
-  "ONCA": SASA_DATA,
-  "FELINO": SASA_DATA
+Características Físicas e Cores
+• Corpo Baby: Ele segue a estética "chibi" ou "baby", com uma cabeça proporcionalmente grande, corpo redondo e rechonchudo, e membros curtos.
+• Bípede: O design o representa ficando em pé nas duas patas traseiras, podendo também andar em quatro patas.
+• Focinho: Possui um focinho de porco proeminente e rosado.
+• Presas: Pequenos dentes-de-sabre arredondados.
+• Paleta de Cores Marrons: tons de marrom quente e ferrugem; barriga e interior das orelhas em creme/bege.
+• Cabelo Escuro: topete e crina marrom muito escuro.
+• Textura: leve granulada nas áreas de sombra.
+• Olhos Grandes e Expressivos: íris âmbar/marrom-avermelhada.
+• Orelhas Pontudas, Cauda Curta, Traços com line art limpa.
+Ilustração: estilo cartoon infantil, traços limpos, cores chapadas com nuances, acabamento suave e texturizado.`,
+    image: "imagens/bichos/pepe.jpg"
+  },
+ 
 
+
+  
+  "SASÁ": {
+    title: "SASÁ",
+    description: `AÇÃO - coloca essa personagem na pose do rascunho, não seguir os traços do rascunho e apenas seguir a pose fiel mostrada no rascunho.
+
+Uma filhote de leopardo (ou jaguar) com um estilo cartoon super carismático e expressivo.
+
+Características Físicas
+• Coloração: O corpo tem um tom vibrante de laranja dourado, com o peito, a barriga e o focinho em um tom creme/bege mais claro. Algumas leves texturas nos pontos de sombreamentos para uma sensação tátil, de desenho à mão.
+• Padrão de Pintas: Possui manchas arredondadas em marrom escuro distribuídas de forma harmônica pela cabeça, braços, pernas e cauda.
+• Olhos: São grandes e expressivos, com íris na cor verde esmeralda e cílios delicados, o que confere uma aparência amigável e juvenil.
+• Orelhas: Arredondadas, com o interior em tom de rosa e a borda externa marrom, combinando com as manchas.
+• Sorriso: O sorriso sempre mostra as pequenas presas e a língua, junto com as bochechas levemente rosadas.
+• Traços: O contorno é feito com linhas firmes e limpas; há um pequeno tufo de pelos no topo da cabeça e detalhes de pelagem nas laterais do rosto e no peito.
+• Anatomia: Segue o estilo chibi/antropomórfico (fica de pé em duas patas), com mãos e pés grandes e arredondados; formas arredondadas e amigáveis.
+Ilustração infantil digital vibrante e dinâmica no estilo cartoon, traços limpos, arte final precisa e cores chapadas com nuances; acabamento suave e texturizado, lembrando "classic storybook illustration".`,
+    image: "/MODEL SASÁ.jpg"
+  },
+  "ONÇA": {
+    title: "ONÇA",
+    description: `AÇÃO - coloca essa personagem na pose do rascunho, não seguir os traços do rascunho e apenas seguir a pose fiel mostrada no rascunho.
+
+Uma filhote de leopardo (ou jaguar) com um estilo cartoon super carismático e expressivo.
+
+Características Físicas
+• Coloração: O corpo tem um tom vibrante de laranja dourado, com o peito, a barriga e o focinho em um tom creme/bege mais claro. Algumas leves texturas nos pontos de sombreamentos para uma sensação tátil, de desenho à mão.
+• Padrão de Pintas: Possui manchas arredondadas em marrom escuro distribuídas de forma harmônica pela cabeça, braços, pernas e cauda.
+• Olhos: São grandes e expressivos, com íris na cor verde esmeralda e cílios delicados, o que confere uma aparência amigável e juvenil.
+• Orelhas: Arredondadas, com o interior em tom de rosa e a borda externa marrom, combinando com as manchas.
+• Sorriso: O sorriso sempre mostra as pequenas presas e a língua, junto com as bochechas levemente rosadas.
+• Traços: O contorno é feito com linhas firmes e limpas; há um pequeno tufo de pelos no topo da cabeça e detalhes de pelagem nas laterais do rosto e no peito.
+• Anatomia: Segue o estilo chibi/antropomórfico (fica de pé em duas patas), com mãos e pés grandes e arredondados; formas arredondadas e amigáveis.
+Ilustração infantil digital vibrante e dinâmica no estilo cartoon, traços limpos, arte final precisa e cores chapadas com nuances; acabamento suave e texturizado, lembrando "classic storybook illustration".`,
+    image: "/MODEL SASÁ.jpg"
+  }
 };
-
-
-// normalize
-
-
-
-
-
-// FINAL PROMPET
 
 const qInput = document.getElementById('query');
 const actionInput = document.getElementById('action');
+const formatControl = document.getElementById('formatControl');
+const qtySelect = document.getElementById('qtySelect');
+
+// custom format control logic
+let currentFormat = ""; // empty = auto
+const formatToggle = formatControl.querySelector('.format-toggle');
+const formatList = formatControl.querySelector('.format-list');
+const formatItems = Array.from(formatControl.querySelectorAll('.format-item'));
+
+function closeFormatList(){
+  formatList.hidden = true;
+  formatControl.setAttribute('aria-expanded','false');
+}
+function openFormatList(){
+  formatList.hidden = false;
+  formatControl.setAttribute('aria-expanded','true');
+}
+function updateFormatUI(value){
+  currentFormat = value || "";
+  const label = value ? value : "Formato";
+  formatToggle.querySelector('.format-label').textContent = label;
+  // update the little icon on the toggle to match selected format
+  const iconSpan = formatToggle.querySelector('.format-icon');
+  // reset to base class then add specific class for the format (use dash rather than colon)
+  if(iconSpan){
+    // remove any existing format-specific classes
+    iconSpan.className = 'format-icon';
+    if(currentFormat){
+      // map "1:1" -> "format-icon-1-1", "16:9" -> "format-icon-16-9", etc.
+      const safeClass = 'format-icon-' + currentFormat.replace(':','-');
+      iconSpan.classList.add(safeClass);
+    } else {
+      iconSpan.classList.add('format-icon-placeholder');
+    }
+  }
+
+  // highlight selected item
+  formatItems.forEach(it=>{
+    const v = it.dataset.value || "";
+    it.setAttribute('aria-selected', v === currentFormat ? 'true' : 'false');
+  });
+  closeFormatList();
+}
+
+// item click
+formatItems.forEach(it=>{
+  it.addEventListener('click', ()=> {
+    const v = it.dataset.value || "";
+    updateFormatUI(v);
+  });
+  // keyboard support
+  it.addEventListener('keydown', (e)=>{
+    if(e.key === 'Enter' || e.key === ' ') { e.preventDefault(); it.click(); }
+  });
+});
+
+// toggle button
+formatToggle.addEventListener('click', ()=>{
+  if(formatList.hidden) openFormatList(); else closeFormatList();
+});
+formatToggle.addEventListener('keydown', (e)=>{
+  if(e.key === 'ArrowDown'){ e.preventDefault(); openFormatList(); if(formatItems[0]) formatItems[0].focus(); } // focus first option
+  if(e.key === 'Escape'){ closeFormatList(); formatToggle.focus(); }
+});
+
+// click outside to close
+document.addEventListener('click', (e)=>{
+  if(!formatControl.contains(e.target)) closeFormatList();
+});
 const btnSearch = document.getElementById('btnSearch');
 const resultEl = document.getElementById('result');
 const titleEl = document.getElementById('resultTitle');
@@ -47,33 +135,43 @@ const imgEl = document.getElementById('resultImage');
 const btnCopyImage = document.getElementById('btnCopyImage');
 const btnCopyText = document.getElementById('btnCopyText');
 const searchRows = document.querySelectorAll('.search-row'); // rows to hide when showing results
+const actionRow = document.querySelector('.action-row'); // also hide the action-row (search button) when displaying results
 
 // normalize
-function norm(s){
-  return String(s || "")
-    .trim()
-    .toUpperCase()
-    .replaceAll("Ç", "C")
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "");
-}
+function norm(s){ return String(s || "").trim().toUpperCase(); }
 
 // compose description: if user provided action, prefix it with "AÇÃO - " and then the base description
 function composeDescription(entry){
   const base = entry.description || "";
   const action = (actionInput && actionInput.value || "").trim();
+  let composed = "";
   if(action){
-    return `AÇÃO - ${action}\n\n${base}`;
+    composed = `AÇÃO - ${action}\n\n${base}`;
+  } else {
+    composed = base;
   }
-  // if no custom action, include original base (which already described action in some entries)
-  return base;
+
+  // append format/quantity suffix if selected
+  const fmt = currentFormat || "";
+  const qty = (qtySelect && qtySelect.value) ? qtySelect.value.trim() : "";
+  if(qty || fmt){
+    // default display for qty is prefixed with x, for format show 'formato'
+    const qtyText = qty ? `x${qty}` : "";
+    const fmtText = fmt ? `formato${fmt}` : "";
+    // ensure a space between parts and prefix with newline
+    composed = `${composed}\n\n${[qtyText, fmtText].filter(Boolean).join(' ')}`;
+  }
+
+  return composed;
 }
 
 function hideSearchRows(){
   searchRows.forEach(r => r.classList.add('hidden'));
+  if(actionRow) actionRow.classList.add('hidden');
 }
 function showSearchRows(){
   searchRows.forEach(r => r.classList.remove('hidden'));
+  if(actionRow) actionRow.classList.remove('hidden');
 }
 
 function showResult(entry){
@@ -127,6 +225,9 @@ function search(){
 function resetSearch(){
   qInput.value = "";
   if(actionInput) actionInput.value = "";
+  // reset custom format control UI/state
+  updateFormatUI("");
+  if(qtySelect) qtySelect.value = "4";
   qInput.focus();
   // show search inputs again and clear result
   showSearchRows();
@@ -236,6 +337,8 @@ qInput.addEventListener('keydown', (e)=>{ if(e.key==='Enter') search(); });
 btnCopyImage.addEventListener('click', copyImageOnly);
 btnCopyText.addEventListener('click', copyTextOnly);
 
-// start with empty input
+// start with empty input and defaults
 qInput.value = "";
-actionInput.value = "";
+if(actionInput) actionInput.value = "";
+updateFormatUI(""); // default empty
+if(qtySelect) qtySelect.value = "4";
