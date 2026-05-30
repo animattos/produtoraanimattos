@@ -1,7 +1,14 @@
 const DATA = {
+
+
+// PEPÊ
+
+
   "PEPÊ": {
     title: "PEPÊ",
-    description: `Um filhote de javali com um estilo cartoon super carismático e expressivo.
+    description: `coloca esse personagem na pose do rascunho, não seguir os traços do rascunho e apenas seguir a pose fiel mostrada no rascunho.
+
+Um filhote de javali com um estilo cartoon super carismático e expressivo.
 
 Características Físicas e Cores
 • Corpo Baby: Ele segue a estética "chibi" ou "baby", com uma cabeça proporcionalmente grande, corpo redondo e rechonchudo, e membros curtos.
@@ -14,12 +21,11 @@ Características Físicas e Cores
 • Olhos Grandes e Expressivos: íris âmbar/marrom-avermelhada.
 • Orelhas Pontudas, Cauda Curta, Traços com line art limpa.
 Ilustração: estilo cartoon infantil, traços limpos, cores chapadas com nuances, acabamento suave e texturizado.`,
-    image: "imagens/bichos/pepe.jpg"
+    image: "/imagens/bichos/pepe.jpg"
   },
  
+// custom format control logic
 
-
-  
   "SASÁ": {
     title: "SASÁ",
     description: `AÇÃO - coloca essa personagem na pose do rascunho, não seguir os traços do rascunho e apenas seguir a pose fiel mostrada no rascunho.
@@ -136,6 +142,7 @@ const btnCopyImage = document.getElementById('btnCopyImage');
 const btnCopyText = document.getElementById('btnCopyText');
 const searchRows = document.querySelectorAll('.search-row'); // rows to hide when showing results
 const actionRow = document.querySelector('.action-row'); // also hide the action-row (search button) when displaying results
+const hintEl = document.getElementById('hint');
 
 // normalize
 function norm(s){ return String(s || "").trim().toUpperCase(); }
@@ -178,6 +185,12 @@ function showResult(entry){
   titleEl.textContent = entry.title;
   descEl.textContent = composeDescription(entry);
 
+  // clear any previous hint/error
+  if(hintEl){
+    hintEl.textContent = "Sistema de Busca de Prompt";
+    hintEl.classList.remove('error');
+  }
+
   // ensure path is URI-encoded (handles spaces/accents) and provide a safe fallback
   try {
     // Request image with anonymous CORS so we can draw to canvas as a fallback if fetch fails
@@ -211,13 +224,19 @@ function search(){
   if(entry){
     showResult(entry);
   } else {
-    titleEl.textContent = "Nenhum resultado";
-    descEl.textContent = `Nenhum item pré-cadastrado com o nome "${qInput.value}". Tente: PEPÊ, JAVALI, PORCO.`;
-    imgEl.src = "";
-    imgEl.alt = "sem imagem";
-    // hide search rows even for "no result" to match behaviour
-    hideSearchRows();
-    resultEl.classList.remove('hidden');
+    // show a concise inline error in the hint area and keep the search inputs visible
+    const rawQuery = (qInput && qInput.value) ? qInput.value.trim() : "";
+    if(hintEl){
+      hintEl.textContent = "Nome não cadastrado.";
+      hintEl.classList.add('error');
+    }
+    // ensure result panel is hidden
+    resultEl.classList.add('hidden');
+    // keep inputs visible so the user can correct the query
+    showSearchRows();
+    // small visual feedback: briefly flash the search box border
+    qInput.classList.add('error-flash');
+    setTimeout(()=> qInput.classList.remove('error-flash'), 700);
   }
 }
 
@@ -236,6 +255,11 @@ function resetSearch(){
   descEl.textContent = "";
   imgEl.src = "";
   imgEl.alt = "";
+  // clear hint/error
+  if(hintEl){
+    hintEl.textContent = "Sistema de Busca de Prompt";
+    hintEl.classList.remove('error');
+  }
 }
 
 /* copy text-only */
