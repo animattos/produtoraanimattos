@@ -58,7 +58,13 @@ const btnCopyText = document.getElementById('btnCopyText');
 const searchRows = document.querySelectorAll('.search-row'); // rows to hide when showing results
 
 // normalize
-function norm(s){ return String(s || "").trim().toUpperCase(); }
+function norm(s){
+  return String(s || "")
+    .trim()
+    .toUpperCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
 
 // compose description: if user provided action, prefix it with "AÇÃO - " and then the base description
 function composeDescription(entry){
