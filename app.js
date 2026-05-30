@@ -1,69 +1,40 @@
 const DATA = {
-  "PEPÊ": {
-    title: "PEPÊ",
-    description: `coloca esse personagem na pose do rascunho, não seguir os traços do rascunho e apenas seguir a pose fiel mostrada no rascunho.
-
-Um filhote de javali com um estilo cartoon super carismático e expressivo.
-
-Características Físicas e Cores
-• Corpo Baby: Ele segue a estética "chibi" ou "baby", com uma cabeça proporcionalmente grande, corpo redondo e rechonchudo, e membros curtos.
-• Bípede: O design o representa ficando em pé nas duas patas traseiras, podendo também andar em quatro patas.
-• Focinho: Possui um focinho de porco proeminente e rosado.
-• Presas: Pequenos dentes-de-sabre arredondados.
-• Paleta de Cores Marrons: tons de marrom quente e ferrugem; barriga e interior das orelhas em creme/bege.
-• Cabelo Escuro: topete e crina marrom muito escuro.
-• Textura: leve granulada nas áreas de sombra.
-• Olhos Grandes e Expressivos: íris âmbar/marrom-avermelhada.
-• Orelhas Pontudas, Cauda Curta, Traços com line art limpa.
-Ilustração: estilo cartoon infantil, traços limpos, cores chapadas com nuances, acabamento suave e texturizado.`,
-    image: "imagens/bichos/pepe.jpg"
-  },
+ 
  
 
 
 
-  "SASÁ": {
-    title: "SASÁ",
-    description: `AÇÃO - coloca essa personagem na pose do rascunho, não seguir os traços do rascunho e apenas seguir a pose fiel mostrada no rascunho.
-
-Uma filhote de leopardo (ou jaguar) com um estilo cartoon super carismático e expressivo.
-
-Características Físicas
-• Coloração: O corpo tem um tom vibrante de laranja dourado, com o peito, a barriga e o focinho em um tom creme/bege mais claro. Algumas leves texturas nos pontos de sombreamentos para uma sensação tátil, de desenho à mão.
-• Padrão de Pintas: Possui manchas arredondadas em marrom escuro distribuídas de forma harmônica pela cabeça, braços, pernas e cauda.
-• Olhos: São grandes e expressivos, com íris na cor verde esmeralda e cílios delicados, o que confere uma aparência amigável e juvenil.
-• Orelhas: Arredondadas, com o interior em tom de rosa e a borda externa marrom, combinando com as manchas.
-• Sorriso: O sorriso sempre mostra as pequenas presas e a língua, junto com as bochechas levemente rosadas.
-• Traços: O contorno é feito com linhas firmes e limpas; há um pequeno tufo de pelos no topo da cabeça e detalhes de pelagem nas laterais do rosto e no peito.
-• Anatomia: Segue o estilo chibi/antropomórfico (fica de pé em duas patas), com mãos e pés grandes e arredondados; formas arredondadas e amigáveis.
-Ilustração infantil digital vibrante e dinâmica no estilo cartoon, traços limpos, arte final precisa e cores chapadas com nuances; acabamento suave e texturizado, lembrando "classic storybook illustration".`,
-    image: "imagens/bichos/sasa.jpg"
+  "saçá": {
+    title: "saçá",
+    description: `Uma filhote de leopardo (ou jaguar) com um estilo cartoon super carismático e expressivo. 
+Características Físicas:
+•	Coloração: O corpo tem um tom vibrante de laranja dourado, com o peito, a barriga e o focinho em um tom creme/bege mais claro. Algumas leve texturas nos pontos de sombreamentos para uma sensação tátil, de desenho à mão.
+•	Padrão de Pintas: Possui manchas arredondadas em marrom escuro distribuídas de forma harmônica pela cabeça, braços, pernas e cauda.
+•	Olhos: São grandes e expressivos, com íris na cor verde esmeralda e cílios delicados, o que confere uma aparência amigável e juvenil.
+•	Orelhas: Arredondadas, com o interior em tom de rosa e a borda externa marrom, combinando com as manchas.
+•	O sorriso sempre mostra as pequenas presas e a língua, junto com as bochechas levemente rosadas.
+•	Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas. Há um pequeno tufo de pelos no topo da cabeça e detalhes de pelagem nas laterais do rosto e no peito, dando uma textura fofinha.
+•	Anatomia: Segue o estilo chibi ou antropomórfico (fica de pé em duas patas), com mãos e pés grandes e arredondados, ideais para mascote infantil. O design geral deve ser composto de formas arredondadas e amigáveis.
+ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+`,
+    
+    image: "imagens/bichos/pepe.jpg"
   },
 
+  "SASÁ": SASA_DATA,
+  "SASA": SASA_DATA,
+  "sasa": SASA_DATA,
+  "sasá": SASA_DATA,
+  "saca": SASA_DATA,
+  "sacá": SASA_DATA,
+  "saçá": SASA_DATA,
+  "SAÇÁ": SASA_DATA,
+  "SACA": SASA_DATA,
+  "ONÇA": SASA_DATA,
+  "ONCA": SASA_DATA,
+  "FELINO": SASA_DATA
 
-
-  "ONÇA": {
-    title: "ONÇA",
-    description: `AÇÃO - coloca essa personagem na pose do rascunho, não seguir os traços do rascunho e apenas seguir a pose fiel mostrada no rascunho.
-
-Uma filhote de leopardo (ou jaguar) com um estilo cartoon super carismático e expressivo.
-
-Características Físicas
-• Coloração: O corpo tem um tom vibrante de laranja dourado, com o peito, a barriga e o focinho em um tom creme/bege mais claro. Algumas leves texturas nos pontos de sombreamentos para uma sensação tátil, de desenho à mão.
-• Padrão de Pintas: Possui manchas arredondadas em marrom escuro distribuídas de forma harmônica pela cabeça, braços, pernas e cauda.
-• Olhos: São grandes e expressivos, com íris na cor verde esmeralda e cílios delicados, o que confere uma aparência amigável e juvenil.
-• Orelhas: Arredondadas, com o interior em tom de rosa e a borda externa marrom, combinando com as manchas.
-• Sorriso: O sorriso sempre mostra as pequenas presas e a língua, junto com as bochechas levemente rosadas.
-• Traços: O contorno é feito com linhas firmes e limpas; há um pequeno tufo de pelos no topo da cabeça e detalhes de pelagem nas laterais do rosto e no peito.
-• Anatomia: Segue o estilo chibi/antropomórfico (fica de pé em duas patas), com mãos e pés grandes e arredondados; formas arredondadas e amigáveis.
-Ilustração infantil digital vibrante e dinâmica no estilo cartoon, traços limpos, arte final precisa e cores chapadas com nuances; acabamento suave e texturizado, lembrando "classic storybook illustration".`,
-    image: "imagens/bichos/sasa.jpg"
-  }
 };
-
-
-
-
 
 
 
