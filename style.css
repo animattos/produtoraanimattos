@@ -292,10 +292,11 @@ textarea#action:focus{
   border:1px solid #f3f6fb;
 }
 .preview img{
-  /* responsive sizing: keep aspect, cap height and width so image is visible on all screens */
+  /* responsive sizing: keep aspect and ensure the image fits the preview without being cropped */
   width:100%;
   height:auto;
-  max-height:36vh;
+  /* increase cap so tall images can fit the viewport better without being cropped */
+  max-height:48vh;
   max-width:100%;
   object-fit:contain;
   border-radius:8px;
