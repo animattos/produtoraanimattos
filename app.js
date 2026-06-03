@@ -169,9 +169,242 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
 
   // ...........................................CRIANÇAS............................................................//
 
+//NINA ESCOLA
+    "NINAESCOLA": {
+    title: "NINA ESCOLA",
+    description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. É uma criança, aparentando ter entre 9 e 10 anos. 
+    Camiseta: Estilo raglan, com o tronco na cor branca e as mangas curtas na cor azul-escura.
+    Saia: Azul-escura e de modelo plissado (com pregas).
+    Calça/Meia-calça: Justa ao corpo, também na cor azul-escura, cobrindo todas as pernas.
+    Calçado: Tênis estilo cano baixo na cor vermelha, com biqueira, sola e cadarços brancos.
+    Ela tem Pele parda, olhos grandes e expressivos, um nariz pequeno e um sorriso sutil. Ela usa óculos redondos com armação fina que lhe dão um visual nerd e curioso.
+    ESTILO: ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+    Camisa: Uma camisa de botão de manga curta com gola. Ela possui um design em dois tons de vermelho: a parte superior (ombros e gola) é de um tom vermelho-escuro/vinho, enquanto a parte inferior é vermelha viva.
+`,
+    image: "imagens/criancas/ninaescola.jpg"
+
+  },
 
 
 
+//NINA
+    "NINA": {
+    title: "NINA",
+    description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. É uma criança, aparentando ter entre 9 e 10 anos. 
+    Ela tem uma aparência distinta e adorável. Ela usa um suéter amarelo claro e aconchegante, que apresenta um coração vermelho proeminente no centro, e uma camisa branca com gola vermelha por baixo. Sua saia é de um roxo-azulado vibrante, complementada por calças justas azuis e tênis vermelhos clássicos com cadarços brancos. Ela tem Pele parda, olhos grandes e expressivos, um nariz pequeno e um sorriso sutil. Ela usa óculos redondos com armação fina que lhe dão um visual nerd e curioso.
+    ESTILO: ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+    Camisa: Uma camisa de botão de manga curta com gola. Ela possui um design em dois tons de vermelho: a parte superior (ombros e gola) é de um tom vermelho-escuro/vinho, enquanto a parte inferior é vermelha viva.
+`,
+    image: "imagens/criancas/nina.jpg"
+
+  },
+
+
+
+
+//JLÉO ESCOLA
+    "LÉOESCOLA": {
+    title: "LÉO ESCOLA",
+    description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. É uma criança, aparentando ter entre 9 e 10 anos. 
+    Cabelo: Ele tem um cabelo loiro bastante volumoso, espetado e com um estilo desalinhado/rebelde.
+    Rosto: Possui grandes olhos expressivos castanhos (ou pretos), sobrancelhas grossas da mesma cor do cabelo, bochechas rosadas e um sorriso alegre e aberto que mostra os dentes superiores.
+    Tom de Pele: Pele clara com tons rosados proeminentes nas bochechas e no nariz.
+    Camiseta: Estilo raglan de manga curta, com o corpo principal na cor branca e as mangas e a gola redonda na cor azul-escura modelo escolar.
+    Calça: Calça comprida inteiramente azul-escura (combinando com as mangas da camiseta), com corte estilo jogger/moletom e barra ajustada no tornozelo.
+    Calçado: Tênis casuais vermelhos com biqueira, sola e cadarços brancos (estilo All Star).
+    ESTILO: ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+    Camisa: Uma camisa de botão de manga curta com gola. Ela possui um design em dois tons de vermelho: a parte superior (ombros e gola) é de um tom vermelho-escuro/vinho, enquanto a parte inferior é vermelha viva.
+`,
+    image: "imagens/criancas/leoescola.jpg"
+
+  },
+
+
+
+//JLÉO
+    "LÉO": {
+    title: "LÉO",
+    description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. É uma criança, aparentando ter entre 9 e 10 anos. 
+    Cabelo: Ele tem um cabelo loiro bastante volumoso, espetado e com um estilo desalinhado/rebelde.
+    Rosto: Possui grandes olhos expressivos castanhos (ou pretos), sobrancelhas grossas da mesma cor do cabelo, bochechas rosadas e um sorriso alegre e aberto que mostra os dentes superiores.
+    Tom de Pele: Pele clara com tons rosados proeminentes nas bochechas e no nariz.
+    Parte Superior: Uma camisa de botão verde-escura de mangas compridas (ou 3/4), usada por fora da calça e com a gola arrumada.
+    Parte Inferior: Calças compridas de cor bege (estilo sarja ou cáqui), com as barras levemente dobradas logo acima do tornozelo.
+    Calçados: Tênis vermelhos de cano baixo com biqueiras e cadarços brancos (estilo clássico All-Star).
+    ESTILO: ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+    Camisa: Uma camisa de botão de manga curta com gola. Ela possui um design em dois tons de vermelho: a parte superior (ombros e gola) é de um tom vermelho-escuro/vinho, enquanto a parte inferior é vermelha viva.
+`,
+    image: "imagens/criancas/leo.jpg"
+
+  },
+
+
+
+
+
+//JOÃO ESCOLA 
+    "JOÃOESCOLA": {
+    title: "JOÁO ESCOLA",
+    description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. É uma criança, aparentando ter entre 9 e 10 anos. 
+    Etnia e Pele: Ele é um garoto negro, com a pele em um tom de marrom quente e bochechas levemente coradas.
+   Cabelo: Possui cabelo crespo/cacheado volumoso em cima e  curto dos lados e atrás, no estilo afro ou taper fade, de cor castanho-escura.
+   Rosto: Tem olhos grandes, expressivos e castanhos, sobrancelhas finas e arqueadas, um nariz pequeno e arredondado, e um sorriso gentil e amigável. Suas orelhas são levemente proeminentes.
+   O personagem veste um conjunto escolar de agasalho esportivo e tênis. Casaco (Blusa de moletom com capuz): É um modelo estilo raglan bicolor. O corpo principal (frente e costas) é branco, trazendo um bolso estilo canguru na parte frontal. As mangas, os punhos, a barra e o capuz são de cor azul-escura.
+   Calça: Uma calça de moletom inteiramente azul-escura, combinando com os detalhes do casaco, com modelagem reta e punhos na barra.
+   Tênis: Calçados de cano baixo na cor vermelha, com biqueira, solado e cadarços brancos (estilo clássico All Star).
+    ESTILO: ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+    Camisa: Uma camisa de botão de manga curta com gola. Ela possui um design em dois tons de vermelho: a parte superior (ombros e gola) é de um tom vermelho-escuro/vinho, enquanto a parte inferior é vermelha viva.
+`,
+    image: "imagens/criancas/joaoescola.jpg"
+
+  },
+
+
+
+//JOÃO 
+    "JOÃO": {
+    title: "JOÁO",
+    description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. É uma criança, aparentando ter entre 9 e 10 anos. 
+    Etnia e Pele: Ele é um garoto negro, com a pele em um tom de marrom quente e bochechas levemente coradas.
+   Cabelo: Possui cabelo crespo/cacheado volumoso em cima e  curto dos lados e atrás, no estilo afro ou taper fade, de cor castanho-escura.
+   Blusa: Um casaco de moletom com capuz (hoodie) na cor amarela ou mostarda. O capuz e os cordões são roxos, criando um contraste complementar.
+   Calça: Calça jeans de cor verde-água (ou azul-piscina claro) com as barras dobradas no tornozelo. Na vista frontal, ele está com a mão esquerda casualmente no bolso.
+   Calçado: Tênis estilo All-Star vermelhos com biqueiras, solados e cadarços brancos.
+   Rosto: Tem olhos grandes, expressivos e castanhos, sobrancelhas finas e arqueadas, um nariz pequeno e arredondado, e um sorriso gentil e amigável. Suas orelhas são levemente proeminentes.
+    ESTILO: ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+    Camisa: Uma camisa de botão de manga curta com gola. Ela possui um design em dois tons de vermelho: a parte superior (ombros e gola) é de um tom vermelho-escuro/vinho, enquanto a parte inferior é vermelha viva.
+`,
+    image: "imagens/criancas/joao.jpg"
+
+  },
+
+
+
+//ERÊ ESCOLA
+    "ERÊESCOLA": {
+    title: "ERÊ ESCOLA",
+    description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. É uma criança, aparentando ter entre 9 e 10 anos. Tom de pele: Pele parda / bronzeada, etinia meio indígena.
+    Rosto: Possui bochechas levemente rosadas, olhos grandes e expressivos na cor castanho-escura, sobrancelhas finas e expressivas, e um sorriso alegre de boca aberta que transmite uma energia amigável e entusiasmada.
+    Cabelo: Longo, liso e na cor preta. O cabelo vai até a altura dos quadris, possui uma franja reta que cobre a testa e o corte atrás termina em um formato levemente arredondado/em "V".
+    Acessórios: Usa brincos pendentes em formato de folhas verdes em ambas as orelhas.
+    A roupa dessa personagem consiste em um vestido curto. Parte Superior: branca sem mangas com detalhes em azul nos ombros. Parte Inferior: branco e nas pontas um azul vibrante decorada com um padrão geométrico de triângulos em tons de azul mais escuro e claro ao longo da bainha.
+   Calçado: Sandálias simples de tiras bege.
+
+    ESTILO: ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+    Camisa: Uma camisa de botão de manga curta com gola. Ela possui um design em dois tons de vermelho: a parte superior (ombros e gola) é de um tom vermelho-escuro/vinho, enquanto a parte inferior é vermelha viva.
+`,
+    image: "imagens/criancas/ereescola.jpg"
+
+  },
+
+
+
+
+
+
+//ERÊ
+    "ERÊ": {
+    title: "ERÊ",
+    description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. É uma criança, aparentando ter entre 9 e 10 anos. Tom de pele: Pele parda / bronzeada, etinia meio indígena.
+    Rosto: Possui bochechas levemente rosadas, olhos grandes e expressivos na cor castanho-escura, sobrancelhas finas e expressivas, e um sorriso alegre de boca aberta que transmite uma energia amigável e entusiasmada.
+    Cabelo: Longo, liso e na cor preta. O cabelo vai até a altura dos quadris, possui uma franja reta que cobre a testa e o corte atrás termina em um formato levemente arredondado/em "V".
+    Roupa: Ela veste um vestido curto e sem mangas em tons de verde. A parte superior é de um verde-bandeira mais escuro, enquanto a barra possui um tom de verde-claro texturizado com um padrão geométrico de triângulos.
+    Calçado: Calça sandálias simples de tiras bege claras/estilo rasteira.
+    Acessórios: Usa brincos pendentes em formato de folhas verdes em ambas as orelhas.
+
+    ESTILO: ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+    Camisa: Uma camisa de botão de manga curta com gola. Ela possui um design em dois tons de vermelho: a parte superior (ombros e gola) é de um tom vermelho-escuro/vinho, enquanto a parte inferior é vermelha viva.
+`,
+    image: "imagens/criancas/ere.jpg"
+
+  },
+
+
+
+
+
+//CAROL ESCOLA
+    "CAROLESCOLA": {
+    title: "CAROL ESCOLA",
+    description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. É uma criança, aparentando ter entre 9 e 10 anos. Uma jovem vibrante e amigável. 
+    Rosto: Carol tem um rosto redondo e expressivo, com grandes olhos castanhos gentis e sobrancelhas finas e expressivas. Seu nariz é pequeno e redondo, e suas bochechas têm um leve rubor rosa. Sua boca está aberta em um sorriso largo e alegre em todas as vistas frontais e laterais, mostrando entusiasmo.
+    Cabelo: Seu cabelo é um corte "bob" curto e volumoso, na cor loiro dourado, com uma franja lateral arrumada que cai sobre a testa. O estilo é consistente e fofo em todas as perspectivas.
+    A personagem está vestindo um uniforme de estilo escolar bem clássico e simples. 
+    Camiseta: Uma blusa estilo raglan de mangas curtas. O corpo da camiseta é branco, enquanto as mangas e a gola redonda são azul-escuro.
+    Saia: Uma saia rodada e plissada (com pregas), da mesma cor azul-escuro das mangas da camiseta.
+    Meias: Meias brancas de cano médio, que cobrem os tornozelos.
+    Calçados: Um par de tênis roxos (ou lilás-escuro) com detalhes brancos na biqueira, no solado e nos cadarços.
+    ESTILO: ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+    Camisa: Uma camisa de botão de manga curta com gola. Ela possui um design em dois tons de vermelho: a parte superior (ombros e gola) é de um tom vermelho-escuro/vinho, enquanto a parte inferior é vermelha viva.
+`,
+    image: "imagens/criancas/carolescola.jpg"
+
+  },
+
+
+
+//CAROL
+    "CAROL": {
+    title: "CAROL",
+    description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. É uma criança, aparentando ter entre 9 e 10 anos. Uma jovem vibrante e amigável. 
+    Rosto: Carol tem um rosto redondo e expressivo, com grandes olhos castanhos gentis e sobrancelhas finas e expressivas. Seu nariz é pequeno e redondo, e suas bochechas têm um leve rubor rosa. Sua boca está aberta em um sorriso largo e alegre em todas as vistas frontais e laterais, mostrando entusiasmo.
+    Camada Superior: Ela usa uma camisa de manga comprida rosa claro com punhos canelados. Por cima da camisa, há um colete de tricô rosa magenta vibrante com gola em V.
+    Acessório: Uma gravata vermelha sólida e fina é usada sobreposta ao colete.
+    Parte Inferior: Ela veste uma saia plissada curta em um tom de roxo acinzentado suave (lavanda acinzentado).
+    Meias e Calçados: Carol usa meias de comprimento de canela combinando com a saia (roxo acinzentado). Seus calçados são tênis de cano alto roxos estilo "Converse", com biqueiras e solas brancas e cadarços brancos amarrados.
+    Cabelo: Seu cabelo é um corte "bob" curto e volumoso, na cor loiro dourado, com uma franja lateral arrumada que cai sobre a testa. O estilo é consistente e fofo em todas as perspectivas.
+    ESTILO: ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+    Camisa: Uma camisa de botão de manga curta com gola. Ela possui um design em dois tons de vermelho: a parte superior (ombros e gola) é de um tom vermelho-escuro/vinho, enquanto a parte inferior é vermelha viva.
+`,
+    image: "imagens/criancas/carol.jpg"
+
+  },
+
+
+
+
+
+//CACÁ ESCOLA
+    "CACÁESCOLA": {
+    title: "CACÁ ESCOLA",
+    description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. É uma criança, aparentando ter entre 9 e 10 anos. O personagem é um garoto jovem, desenhado em um estilo de desenho animado (cartoon) moderno e carismático. Ele transmite uma energia alegre, amigável e expressiva. Cabelo: Loiro, volumoso e texturizado com pequenas linhas pontilhadas (estilo halftone para sombreamento). Tem um topete estilizado e espetado para a frente e para cima com as pontas arredondadas.
+
+Rosto: Possui olhos grandes, redondos e expressivos na cor castanho-escura. As sobrancelhas são finas e expressivas. Suas bochechas têm um leve tom rosado, e ele exibe um sorriso aberto e animado, mostrando a língua e os dentes superiores.
+O personagem veste um conjunto de estilo uniforme escolar bem casual e simples. 
+Camiseta: É uma camiseta estilo raglan de mangas curtas. O corpo da camiseta é branco e as mangas (junto com a gola careca) são de cor azul-escura.
+Bermuda: Uma bermuda simples de corte reto na cor azul-escura, combinando com as mangas da camiseta.
+Calçados e Meias: Ele calça um par de tênis cinzas com solado e cadarços em um tom de cinza mais claro, combinados com meias brancas de cano médio que ficam visíveis acima do tornozelo.
+Estrutura: Corpo com proporções infantis/juvenis, cabeça ligeiramente maior em relação ao corpo (estilo semi-chibi), braços e pernas finos. 
+Acessório: Ele usa uma pulseira de contas de cor azul-turquesa no pulso esquerdo. 
+    ESTILO: ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+    Camisa: Uma camisa de botão de manga curta com gola. Ela possui um design em dois tons de vermelho: a parte superior (ombros e gola) é de um tom vermelho-escuro/vinho, enquanto a parte inferior é vermelha viva.
+`,
+    image: "imagens/criancas/cacaescola.jpg"
+
+  },
+
+
+
+//CACÁ
+    "CACÁ": {
+    title: "CACÁ",
+    description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. É uma criança, aparentando ter entre 9 e 10 anos. O personagem é um garoto jovem, desenhado em um estilo de desenho animado (cartoon) moderno e carismático. Ele transmite uma energia alegre, amigável e expressiva. Cabelo: Loiro, volumoso e texturizado com pequenas linhas pontilhadas (estilo halftone para sombreamento). Tem um topete estilizado e espetado para a frente e para cima com as pontas arredondadas.
+
+Rosto: Possui olhos grandes, redondos e expressivos na cor castanho-escura. As sobrancelhas são finas e expressivas. Suas bochechas têm um leve tom rosado, e ele exibe um sorriso aberto e animado, mostrando a língua e os dentes superiores.
+
+Estrutura: Corpo com proporções infantis/juvenis, cabeça ligeiramente maior em relação ao corpo (estilo semi-chibi), braços e pernas finos.  
+    
+Bermuda: Uma bermuda simples de cor verde-esmeralda ou ciano-escura.
+
+Calçados: Tênis cinzas com detalhes de cadarços brancos e solado cinza-escuro, usados com meias brancas cano médio que aparecem acima do tornozelo.
+
+Acessório: Ele usa uma pulseira de contas de cor azul-turquesa no pulso esquerdo.
+ESTILO: ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+    Camisa: Uma camisa de botão de manga curta com gola. Ela possui um design em dois tons de vermelho: a parte superior (ombros e gola) é de um tom vermelho-escuro/vinho, enquanto a parte inferior é vermelha viva.
+`,
+    image: "imagens/criancas/caca.jpg"
+
+  },
 
 
 
@@ -179,7 +412,7 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
 //MAE
     "MÃE": {
     title: "MÃE",
-    description: `uma mulher "mãe" com um visual casual e esportivo. Cabelo: Castanho-escuro, liso e longo, preso em um rabo de cavalo alto e firme na parte de trás. Ela tem uma franja lateral discreta que molda o lado direito do rosto.
+    description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. uma mulher "mãe" com um visual casual e esportivo. Cabelo: Castanho-escuro, liso e longo, preso em um rabo de cavalo alto e firme na parte de trás. Ela tem uma franja lateral discreta que molda o lado direito do rosto.
 
 Rosto: Olhos grandes e expressivos na cor castanha, sobrancelhas finas e arqueadas, e um nariz pequeno.
 Parte Superior: Veste uma camiseta básica de manga curta na cor rosa-chiclete, com gola careca (redonda) e corte ajustado ao corpo.
@@ -197,11 +430,15 @@ Acessório: No pulso esquerdo, ela usa um relógio de pulso minimalista com puls
 
   },
 
+
+
+
+
   //PAI
 
   "PAI": {
     title: "PAI",
-    description: `Este personagem é um homem caucasiano de meia-idade, com uma aparência profissional e amigável. Aparência: Ele tem cabelos loiros-amarelados curtos, bem arrumados e repartidos para o lado. Tem rugas sutis e linhas de expressão ao redor dos olhos e na testa, o que lhe dá um ar experiente e amigável. Ele usa óculos de armação grossa, marrom-escura e quadrada, que emolduram seus olhos azuis-acinzentados. Ele também tem uma barba rala e bem cuidada, de tom grisalho claro.
+    description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. Este personagem é um homem caucasiano de meia-idade, com uma aparência profissional e amigável. Aparência: Ele tem cabelos loiros-amarelados curtos, bem arrumados e repartidos para o lado. Tem rugas sutis e linhas de expressão ao redor dos olhos e na testa, o que lhe dá um ar experiente e amigável. Ele usa óculos de armação grossa, marrom-escura e quadrada, que emolduram seus olhos azuis-acinzentados. Ele também tem uma barba rala e bem cuidada, de tom grisalho claro.
 
 Vestuário: Ele veste uma camisa de botão de manga comprida azul-acinzentada, com o colarinho ligeiramente aberto e as mangas dobradas na altura do pulso. Ele usa calças de alfaiataria cinza-médio, de corte reto, com pregas sutis, seguras por um cinto de couro marrom escuro com uma fivela retangular prateada.
 
@@ -242,6 +479,21 @@ DATA["PROFESSOR CORUJÃO"]   = DATA["CORUJA"];
 
 DATA["PAE"]   = DATA["PAI"];
 DATA["MAE"]   = DATA["MÃE"];
+DATA["CACAESCOLA"]   = DATA["CACÁESCOLA"];
+DATA["CACA ESCOLA"]   = DATA["CACÁESCOLA"];
+DATA["CACÁ ESCOLA"]   = DATA["CACÁESCOLA"];
+DATA["CAROL ESCOLA"]   = DATA["CAROLESCOLA"];
+DATA["ERÊ ESCOLA"]   = DATA["ERÊESCOLA"];
+DATA["ERE ESCOLA"]   = DATA["ERÊESCOLA"];
+DATA["EREESCOLA"]   = DATA["ERÊESCOLA"];
+DATA["JOAO"]   = DATA["JOÃO"];
+DATA["JOAO ESCOLA"]   = DATA["JOÃOESCOLA"];
+DATA["JOÃO ESCOLA"]   = DATA["JOÃOESCOLA"];
+DATA["LEO"]   = DATA["LÉO"];
+DATA["LEO ESCOLA"]   = DATA["LÉOESCOLA"];
+DATA["LEOESCOLA"]   = DATA["LÉOESCOLA"];
+DATA["NI NA"]   = DATA["NINA"];
+DATA["NINA ESCOLA"]   = DATA["NINAESCOLA"];
 
 
 
