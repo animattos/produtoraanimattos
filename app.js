@@ -179,16 +179,7 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
 //MAE
     "MÃE": {
     title: "MÃE",
-    description: `Uma filhote de leopardo (ou jaguar) com um estilo cartoon super carismático e expressivo. 
-Características Físicas
-•	Coloração: O corpo tem um tom vibrante de laranja dourado, com o peito, a barriga e o focinho em um tom creme/bege mais claro. Algumas leve texturas nos pontos de sombreamentos para uma sensação tátil, de desenho à mão.
-•	Padrão de Pintas: Possui manchas arredondadas em marrom escuro distribuídas de forma harmônica pela cabeça, braços, pernas e cauda.
-•	Olhos: São grandes e expressivos, com íris na cor verde esmeralda e cílios delicados, o que confere uma aparência amigável e juvenil.
-•	Orelhas: Arredondadas, com o interior em tom de rosa e a borda externa marrom, combinando com as manchas.
-•	O sorriso sempre mostra as pequenas presas e a língua, junto com as bochechas levemente rosadas.
-•	Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas. Há um pequeno tufo de pelos no topo da cabeça e detalhes de pelagem nas laterais do rosto e no peito, dando uma textura fofinha.
-•	Anatomia: Segue o estilo chibi ou antropomórfico (fica de pé em duas patas), com mãos e pés grandes e arredondados, ideais para mascote infantil. O design geral deve ser composto de formas arredondadas e amigáveis.
-ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+    description: `om nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
 `,
     image: "imagens/criancas/mae.jpg"
 
@@ -200,16 +191,12 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
 
   "PAI": {
     title: "PAI",
-    description: `Uma filhote de leopardo (ou jaguar) com um estilo cartoon super carismático e expressivo. 
-Características Físicas
-•	Coloração: O corpo tem um tom vibrante de laranja dourado, com o peito, a barriga e o focinho em um tom creme/bege mais claro. Algumas leve texturas nos pontos de sombreamentos para uma sensação tátil, de desenho à mão.
-•	Padrão de Pintas: Possui manchas arredondadas em marrom escuro distribuídas de forma harmônica pela cabeça, braços, pernas e cauda.
-•	Olhos: São grandes e expressivos, com íris na cor verde esmeralda e cílios delicados, o que confere uma aparência amigável e juvenil.
-•	Orelhas: Arredondadas, com o interior em tom de rosa e a borda externa marrom, combinando com as manchas.
-•	O sorriso sempre mostra as pequenas presas e a língua, junto com as bochechas levemente rosadas.
-•	Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas. Há um pequeno tufo de pelos no topo da cabeça e detalhes de pelagem nas laterais do rosto e no peito, dando uma textura fofinha.
-•	Anatomia: Segue o estilo chibi ou antropomórfico (fica de pé em duas patas), com mãos e pés grandes e arredondados, ideais para mascote infantil. O design geral deve ser composto de formas arredondadas e amigáveis.
-ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+    description: `Este personagem é um homem caucasiano de meia-idade, com uma aparência profissional e amigável. Aparência: Ele tem cabelos loiros-amarelados curtos, bem arrumados e repartidos para o lado. Tem rugas sutis e linhas de expressão ao redor dos olhos e na testa, o que lhe dá um ar experiente e amigável. Ele usa óculos de armação grossa, marrom-escura e quadrada, que emolduram seus olhos azuis-acinzentados. Ele também tem uma barba rala e bem cuidada, de tom grisalho claro.
+
+Vestuário: Ele veste uma camisa de botão de manga comprida azul-acinzentada, com o colarinho ligeiramente aberto e as mangas dobradas na altura do pulso. Ele usa calças de alfaiataria cinza-médio, de corte reto, com pregas sutis, seguras por um cinto de couro marrom escuro com uma fivela retangular prateada.
+
+Calçados: Ele usa sapatos mocassins de couro marrom-claro, com borlas decorativas, e meias cinzas que combinam com as calças. 
+ESTILO: ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes. 
 `,
     image: "imagens/criancas/pai.jpg"
   }
