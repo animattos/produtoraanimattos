@@ -177,7 +177,7 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
 
 
 //MAE
-    "mãe": {
+    "MÃE": {
     title: "MÃE",
     description: `Uma filhote de leopardo (ou jaguar) com um estilo cartoon super carismático e expressivo. 
 Características Físicas
@@ -198,7 +198,7 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
 
   //PAI
 
-  "pai": {
+  "PAI": {
     title: "PAI",
     description: `Uma filhote de leopardo (ou jaguar) com um estilo cartoon super carismático e expressivo. 
 Características Físicas
