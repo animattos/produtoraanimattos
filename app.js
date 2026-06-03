@@ -379,7 +379,7 @@ Acessório: Ele usa uma pulseira de contas de cor azul-turquesa no pulso esquerd
     ESTILO: ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
     Camisa: Uma camisa de botão de manga curta com gola. Ela possui um design em dois tons de vermelho: a parte superior (ombros e gola) é de um tom vermelho-escuro/vinho, enquanto a parte inferior é vermelha viva.
 `,
-    image: "imagens/criancas/cacaesola.jpg"
+    image: "imagens/criancas/cacaescola.jpg"
 
   },
 
