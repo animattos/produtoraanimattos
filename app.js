@@ -222,7 +222,7 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
 
 
 
-// VARIANTES
+// VARIANTES ANIMAIS
 
 DATA["PEPE"]   = DATA["PEPÊ"];
 DATA["SACA"]   = DATA["SAÇÁ"];
@@ -241,7 +241,10 @@ DATA["PROFESSOR CORUJA"]   = DATA["CORUJA"];
 DATA["PROFESSOR CORUJÃO"]   = DATA["CORUJA"];
 
 
+// VARIANTES CRIANÇAS
 
+DATA["PAE"]   = DATA["PAI"];
+DATA["MAE"]   = DATA["MÃE"];
 
 
 
