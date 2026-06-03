@@ -179,7 +179,17 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
 //MAE
     "MÃE": {
     title: "MÃE",
-    description: `om nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+    description: `uma mulher "mãe" com um visual casual e esportivo. Cabelo: Castanho-escuro, liso e longo, preso em um rabo de cavalo alto e firme na parte de trás. Ela tem uma franja lateral discreta que molda o lado direito do rosto.
+
+Rosto: Olhos grandes e expressivos na cor castanha, sobrancelhas finas e arqueadas, e um nariz pequeno.
+Parte Superior: Veste uma camiseta básica de manga curta na cor rosa-chiclete, com gola careca (redonda) e corte ajustado ao corpo.
+
+Parte Inferior: Usa calças estilo legging compridas na cor cinza-escura, que vão até os tornozelos.
+
+Calçados: Calça sapatilhas simples e rasteiras em um tom de roxo-escuro/vinho.
+
+Acessório: No pulso esquerdo, ela usa um relógio de pulso minimalista com pulseira cinza-clara e caixa circular prateada. 
+    ESTILO: ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
 `,
     image: "imagens/criancas/mae.jpg"
 
