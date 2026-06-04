@@ -4,29 +4,73 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
   <title>Busca de Personagens</title>
+
   <link rel="stylesheet" href="style.css" />
   <script src="app.js" defer></script>
+
+  <style>
+    .pdf-download{
+      text-align:center;
+      margin-top:12px;
+    }
+
+    .pdf-link{
+      font-size:12px;
+      color:#888;
+      text-decoration:none;
+      transition:0.2s;
+      opacity:0.8;
+    }
+
+    .pdf-link:hover{
+      color:#555;
+      text-decoration:underline;
+      opacity:1;
+    }
+  </style>
 </head>
 <body>
   <main class="card">
     <div class="search-row">
       <input id="query" aria-label="campo de busca" placeholder="Digite o nome do personagem" />
-      <!-- custom format picker: shows small format icons next to each option -->
+
       <div id="formatControl" class="format-control" role="listbox" aria-label="Formato" tabindex="0" title="Formato" aria-expanded="false" aria-activedescendant="">
         <button class="format-toggle" aria-haspopup="listbox" aria-label="Selecionar formato">
           <span class="format-icon format-icon-placeholder"></span>
           <span class="format-label">Formato</span>
-          <svg class="caret" width="12" height="12" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7 10l5 5 5-5z"/></svg>
+          <svg class="caret" width="12" height="12" viewBox="0 0 24 24" aria-hidden="true">
+            <path fill="currentColor" d="M7 10l5 5 5-5z"/>
+          </svg>
         </button>
-        <ul class="format-list" role="presentation" hidden>
 
-          <li role="option" data-value="1:1" class="format-item" tabindex="-1"><span class="format-icon format-icon-1-1"></span><span class="format-text">1:1</span></li>
-          <li role="option" data-value="16:9" class="format-item" tabindex="-1"><span class="format-icon format-icon-16-9"></span><span class="format-text">16:9</span></li>
-          <li role="option" data-value="4:3" class="format-item" tabindex="-1"><span class="format-icon format-icon-4-3"></span><span class="format-text">4:3</span></li>
-          <li role="option" data-value="3:4" class="format-item" tabindex="-1"><span class="format-icon format-icon-3-4"></span><span class="format-text">3:4</span></li>
-          <li role="option" data-value="9:16" class="format-item" tabindex="-1"><span class="format-icon format-icon-9-16"></span><span class="format-text">9:16</span></li>
+        <ul class="format-list" role="presentation" hidden>
+          <li role="option" data-value="1:1" class="format-item" tabindex="-1">
+            <span class="format-icon format-icon-1-1"></span>
+            <span class="format-text">1:1</span>
+          </li>
+
+          <li role="option" data-value="16:9" class="format-item" tabindex="-1">
+            <span class="format-icon format-icon-16-9"></span>
+            <span class="format-text">16:9</span>
+          </li>
+
+          <li role="option" data-value="4:3" class="format-item" tabindex="-1">
+            <span class="format-icon format-icon-4-3"></span>
+            <span class="format-text">4:3</span>
+          </li>
+
+          <li role="option" data-value="3:4" class="format-item" tabindex="-1">
+            <span class="format-icon format-icon-3-4"></span>
+            <span class="format-text">3:4</span>
+          </li>
+
+          <li role="option" data-value="9:16" class="format-item" tabindex="-1">
+            <span class="format-icon format-icon-9-16"></span>
+            <span class="format-text">9:16</span>
+          </li>
         </ul>
       </div>
+
       <select id="qtySelect" aria-label="Quantidade" title="Quantidade">
         <option value="1">x1</option>
         <option value="4">x4</option>
@@ -47,12 +91,15 @@
     <section id="result" class="result hidden" aria-live="polite">
       <div class="preview">
         <img id="resultImage" alt="imagem do personagem" src="" />
-        <!-- image copy button placed under the image for mobile-friendly layout -->
-        <button id="btnCopyImage" class="btn ghost btn-copy-image">Copiar imagem</button>
+        <button id="btnCopyImage" class="btn ghost btn-copy-image">
+          Copiar imagem
+        </button>
       </div>
+
       <div class="meta">
         <h2 id="resultTitle"></h2>
         <p id="resultDesc" class="desc"></p>
+
         <div class="actions">
           <button id="btnCopyText" class="btn">Copiar texto</button>
           <button id="btnExit" class="btn ghost">Sair</button>
@@ -60,7 +107,17 @@
       </div>
     </section>
 
-    <div id="hint" class="hint">Sistema de Busca de Prompt</div>
+    <div id="hint" class="hint">
+      Sistema de Busca de Prompt
+    </div>
+
+    <!-- BOTÃO DE DOWNLOAD DO PDF -->
+    <div class="pdf-download">
+      <a href="Criando cenários.pdf" download class="pdf-link">
+        📄 Baixar Guia de Cenários
+      </a>
+    </div>
+
   </main>
 </body>
 </html>
