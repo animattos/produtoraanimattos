@@ -36,7 +36,7 @@ Traços: O contorno é feito com linhas firmes e limpas, típico de animações 
 •	Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas, (line art) é feito com linhas tom mais escuras bem definida.
 •	ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
 `,
-    image: "imagens/bichos/toto.jpg"
+    image: "imagens/bichos/ararajuba.jpg"
   },
 
 
