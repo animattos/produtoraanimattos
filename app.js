@@ -18,11 +18,30 @@ Características Físicas e Cores
 • Textura: leve granulada nas áreas de sombra.
 • Olhos Grandes e Expressivos: íris âmbar/marrom-avermelhada.
 • Orelhas Pontudas, Cauda Curta, Traços com line art limpa.
-Ilustração: estilo cartoon infantil, traços limpos, cores chapadas com nuances, acabamento suave e texturizado.`,
+Ilustração: estilo cartoon infantil, traços limpos, cores chapadas com nuances, acabamento suave e texturizado.
+Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas, (line art) é feito com linhas tom mais escuras bem definida.
+•	ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.`,
     image: "imagens/bichos/pepe.jpg"
   },
  
 
+
+// ARARAJUBA
+
+  "ARARAJUBA": {
+    title: "ARARA JUBA",
+    description: `Uma Arara Juba com um estilo cartoon super carismático e expressivo.
+    Paleta de Cores: Fiel à ararajuba real, a cor predominante é um amarelo vivo e ensolarado por todo o corpo. As pontas das asas trazem um degradê suave que vai do verde-alface ao verde-bandeira. O bico e as patas têm um tom marrom-alaranjado quente e amigável.
+    Rosto: Ela tem olhos grandes, expressivos e castanhos, adornados com cílios marcantes que dão um toque super carismático. No topo da cabeça, há um topete de penas espetadas e desalinhadas, reforçando a personalidade jovem e dinâmica.
+•	Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas, (line art) é feito com linhas tom mais escuras bem definida.
+•	ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+`,
+    image: "imagens/bichos/toto.jpg"
+  },
+
+
+
+  
   
 // TOTÓ
 
@@ -500,6 +519,9 @@ DATA["LEO ESCOLA"]   = DATA["LÉOESCOLA"];
 DATA["LEOESCOLA"]   = DATA["LÉOESCOLA"];
 DATA["NI NA"]   = DATA["NINA"];
 DATA["NINA ESCOLA"]   = DATA["NINAESCOLA"];
+DATA["ARARA JUBA"]   = DATA["ARARAJUBA"];
+DATA["JUBA"]   = DATA["ARARAJUBA"];
+
 
 
 
