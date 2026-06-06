@@ -29,7 +29,7 @@ Traços: O contorno é feito com linhas firmes e limpas, típico de animações 
 // ARARAJUBA
 
   "ARARAJUBA": {
-    title: "ARARA JUBA",
+    title: "JUBA",
     description: `Uma Arara Juba com um estilo cartoon super carismático e expressivo.
     Paleta de Cores: Fiel à ararajuba real, a cor predominante é um amarelo vivo e ensolarado por todo o corpo. As pontas das asas trazem um degradê suave que vai do verde-alface ao verde-bandeira. O bico e as patas têm um tom marrom-alaranjado quente e amigável.
     Rosto: Ela tem olhos grandes, expressivos e castanhos, adornados com cílios marcantes que dão um toque super carismático. No topo da cabeça, há um topete de penas espetadas e desalinhadas, reforçando a personalidade jovem e dinâmica.
