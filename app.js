@@ -40,7 +40,18 @@ Traços: O contorno é feito com linhas firmes e limpas, típico de animações 
   },
 
 
+// AVESTRUZ
 
+  "AVESTRUZ": {
+    title: "AVESTRUZ",
+    description: `Uma Avestruz com um estilo cartoon super carismático e expressivo.Tem olhos grandes, expressivos e castanhos, que transmitem uma personalidade curiosa, amigável e inocente. O bico é curto, alaranjado. Há um pequeno tufo de penas arrepiadas no topo da cabeça. 
+    O pescoço é longo e esguio, com uma coloração bege/creme clara. Na base do pescoço, há uma transição de penas texturizadas em formato de colar que se conecta ao corpo. O corpo é arredondado, coberto por penas em tons de marrom-escuro. As pontas das asas e da cauda têm penas mais claras, em um tom bege ou areia, criando um contraste bonito.
+    Pernas: São longas, finas e de cor alaranjada, terminando em patas robustas com garras escuras pronunciadas.
+•	Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas, (line art) é feito com linhas tom mais escuras bem definida.
+•	ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+`,
+    image: "imagens/bichos/avestruz.jpg"
+  },
   
   
 // TOTÓ
