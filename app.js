@@ -40,6 +40,22 @@ Traços: O contorno é feito com linhas firmes e limpas, típico de animações 
   },
 
 
+// TATU
+
+  "TATU": {
+    title: "TATU",
+    description: `Um Tatu com um estilo cartoon super carismático e expressivo.
+    O personagem é um tatu bípede e antropomórfico, fofo e rechonchudo, com pele bronzeada e uma carapaça de cor mais escura e texturizada.
+•	Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas, (line art) é feito com linhas tom mais escuras bem definida. Tem olhos grandes, castanhos e redondos, nariz castanho e orelhas grandes, redondas e pontudas com reflexos rosados. A carapaça no topo da cabeça é salpicada, enquanto o escudo traseiro maior é feito de placas quadradas sobrepostas com bordas pontilhadas. 
+O personagem tem uma barriga bronzeada, membros curtos e rechonchudos com três garras em cada mão e pé, e uma pequena cauda de tatu clássica com anéis. 
+•	ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+`,
+    image: "imagens/bichos/tatu.jpg"
+  },
+
+
+
+
 // AVESTRUZ
 
   "AVESTRUZ": {
