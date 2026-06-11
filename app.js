@@ -248,7 +248,7 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
 
 
 
-//JLÉO ESCOLA
+//LÉO ESCOLA
     "LÉOESCOLA": {
     title: "LÉO ESCOLA",
     description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. É uma criança, aparentando ter entre 9 e 10 anos. 
@@ -267,7 +267,7 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
 
 
 
-//JLÉO
+//LÉO
     "LÉO": {
     title: "LÉO",
     description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. É uma criança, aparentando ter entre 9 e 10 anos. 
@@ -539,8 +539,7 @@ DATA["JOAO"]   = DATA["JOÃO"];
 DATA["JOAO ESCOLA"]   = DATA["JOÃOESCOLA"];
 DATA["JOÃO ESCOLA"]   = DATA["JOÃOESCOLA"];
 DATA["JOAOESCOLA"]   = DATA["JOÃOESCOLA"];
-DATA["JOÃO"]   = DATA["JOÃOESCOLA"];
-DATA["JOAO"]   = DATA["JOÃOESCOLA"];
+DATA["JOAO"]   = DATA["JOÃO"];
 DATA["LEO"]   = DATA["LÉO"];
 DATA["LEO ESCOLA"]   = DATA["LÉOESCOLA"];
 DATA["LEOESCOLA"]   = DATA["LÉOESCOLA"];
