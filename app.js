@@ -116,7 +116,7 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
     description: `Um sapo com um estilo cartoon super carismático e expressivo. 
 Características Físicas e Cores
 •	Personagem: Ele segue a estética "chibi" ou "baby" Este é um design de desenho animado limpo, simpático e atraente numa versão amigável e expressiva de um grilo.
-•	Esquema de Cores: O personagem é predominantemente verde, com variações de tonalidade. O corpo principal é verde-claro com manchas verdes mais escuras. A barriga e o interior das patas são de um verde-pálido ou creme para contraste.
+•	Esquema de Cores: O personagem é predominantemente verde, com variações de tonalidade. O corpo principal é verde-claro com manchas verdes mais escuras. A barriga e o interior das patas são de um verde-pálido.
 •	Textura: uma textura levemente granulada (stippling), nas áreas de sombra.
 •	Olhos Proeminentes: Esta é a característica mais marcante. O sapo tem olhos grandes, redondos e expressivos, com íris verdes e pupilas grandes e brilhantes que lhe dão um olhar inocente e curioso.
 •	Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas, (line art) é feito com linhas tom mais escuras bem definida.
