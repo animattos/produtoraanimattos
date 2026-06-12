@@ -290,7 +290,7 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
 
 //JOÃO ESCOLA 
     "JOÃOESCOLA": {
-    title: "JOÁO ESCOLA",
+    title: "JOÃO ESCOLA",
     description: `Use a referência da personagem do modelsheet, 3.5-heads high proportion, seguindo todas as características e detalhes do rosto nariz e olhos e cabelos, cores, anatomia, proporções e etc. É uma criança, aparentando ter entre 9 e 10 anos. 
     Etnia e Pele: Ele é um garoto negro, com a pele em um tom de marrom quente e bochechas levemente coradas.
    Cabelo: Possui cabelo crespo/cacheado volumoso em cima e  curto dos lados e atrás, no estilo afro ou taper fade, de cor castanho-escura.
