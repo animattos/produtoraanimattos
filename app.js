@@ -207,7 +207,33 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
   },
 
 
+// CROCO
 
+  "SAÇÁ": {
+    title: "CROCO",
+    description: `Um pequeno crocodilo ou jacaré antropomórfico (com postura bípede e traços amigáveis). 
+Características Físicas e Anatomia
+Cabeça e Rosto:
+Olhos: Grandes e expressivos, com íris verdes escuras, pupilas pretas dilatadas e reflexos de luz que conferem um ar alegre e curioso. 
+Focinho: Alongado e arredondado na ponta, com duas narinas bem definidas na parte superior. 
+Boca e Sorriso: Um sorriso largo e amigável que revela dentes brancos pequenos, triangulares e pontiagudos ao longo da mandíbula. O interior da boca é rosado com a língua visível na vista frontal. 
+Coloração e Textura da Pele:
+Tom Principal: Verde-claro predominante em todo o corpo. 
+Manchas: Pintas circulares e ovais em um tom de verde mais escuro espalhadas pelas costas, braços, pernas e bochechas. 
+Barriga e Peito: Área frontal revestida por um tom creme/amarelado claro, dividida por listras horizontais que simulam escamas de barriga. 
+Detalhes Dorsais (Espinhos):
+Uma fileira de placas ou escamas dorsais pontiagudas em um tom verde-escuro esmeralda, que começa no topo da cabeça, desce por todo o dorso e segue até a ponta da cauda. 
+Membros e Cauda:
+Braços e Mãos: Curtos e grossos, terminando em mãos simples com dedos arredondados. 
+Pernas e Pés: Curtos e robustos, proporcionados para a postura bípede, com garras curtas nos pés. 
+Cauda: Uma cauda curta, grossa na base e afunilada na ponta, curvando-se levemente para o lado e adornada com os mesmos espinhos dorsais escuros. 
+• Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas. 
+• Anatomia: Segue o estilo chibi ou antropomórfico (fica de pé em duas patas), com mãos e pés grandes e arredondados, 5 dedos nas mão, ideais para mascote infantil. O design geral deve ser composto de formas arredondadas e amigáveis.
+ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
+
+`,
+        image: "imagens/bichos/croco.jpg"
+  },
 
 
 
