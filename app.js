@@ -209,7 +209,7 @@ ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traço
 
 // CROCO
 
-  "SAÇÁ": {
+  "CROCO": {
     title: "CROCO",
     description: `Um pequeno crocodilo ou jacaré antropomórfico (com postura bípede e traços amigáveis). 
 Características Físicas e Anatomia
@@ -229,9 +229,7 @@ Pernas e Pés: Curtos e robustos, proporcionados para a postura bípede, com gar
 Cauda: Uma cauda curta, grossa na base e afunilada na ponta, curvando-se levemente para o lado e adornada com os mesmos espinhos dorsais escuros. 
 • Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas. 
 • Anatomia: Segue o estilo chibi ou antropomórfico (fica de pé em duas patas), com mãos e pés grandes e arredondados, 5 dedos nas mão, ideais para mascote infantil. O design geral deve ser composto de formas arredondadas e amigáveis.
-ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes.
-
-`,
+ilustração infantil digital vibrante e dinâmica no estilo cartoon, com traços limpos, arte final precisa e cores chapadas com nuances. O acabamento deve ser suave e texturizado, lembrando história de livros didáticos “classic storybook illustration”, e com uma paleta de cores contrastantes`,
         image: "imagens/bichos/croco.jpg"
   },
 
