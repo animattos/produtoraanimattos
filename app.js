@@ -224,7 +224,7 @@ Barriga e Peito: Área frontal revestida por um tom creme/amarelado claro, divid
 Detalhes Dorsais (Espinhos):
 Uma fileira de placas ou escamas dorsais pontiagudas em um tom verde-escuro esmeralda, que começa no topo da cabeça, desce por todo o dorso e segue até a ponta da cauda. 
 Membros e Cauda:
-Braços e Mãos: Curtos e grossos, terminando em mãos simples com dedos arredondados. 
+Braços e Mãos: Curtos e grossos, terminando em mãos simples com 5 dedos arredondados. 
 Pernas e Pés: Curtos e robustos, proporcionados para a postura bípede, com garras curtas nos pés. 
 Cauda: Uma cauda curta, grossa na base e afunilada na ponta, curvando-se levemente para o lado e adornada com os mesmos espinhos dorsais escuros. 
 • Traços: O contorno é feito com linhas firmes e limpas, típico de animações modernas. 
